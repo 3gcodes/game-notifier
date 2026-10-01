@@ -1,0 +1,325 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>New Board Games</title>
+<meta name="description" content="New board game releases and crowdfunding campaigns from the last 30 days.">
+<style>
+  :root {
+    color-scheme: light dark;
+    --bg: #f6f5f2;
+    --surface: #ffffff;
+    --surface-2: #efede8;
+    --text: #1c1b19;
+    --muted: #6b6861;
+    --line: #e3e0d9;
+    --accent: #2f6fdb;
+    --retail: #5b6b7a;
+    --kickstarter: #05ce78;
+    --kickstarter-text: #0a3d26;
+    --gamefound: #ff5a2d;
+    --warn-bg: #fff4d6;
+    --warn-text: #6d4b00;
+    --bar: #d9d6cf;
+    --radius: 12px;
+    --shadow: 0 1px 2px rgba(0,0,0,.06), 0 6px 20px -12px rgba(0,0,0,.25);
+  }
+  @media (prefers-color-scheme: dark) {
+    :root {
+      --bg: #121311;
+      --surface: #1c1d1a;
+      --surface-2: #262724;
+      --text: #ecebe6;
+      --muted: #a09d94;
+      --line: #2f302c;
+      --accent: #7fa8ff;
+      --retail: #8d9bab;
+      --kickstarter-text: #04301e;
+      --warn-bg: #3a2e0c;
+      --warn-text: #ffd97a;
+      --bar: #3a3b36;
+      --shadow: 0 1px 2px rgba(0,0,0,.4), 0 8px 24px -12px rgba(0,0,0,.7);
+    }
+  }
+  * { box-sizing: border-box; }
+  html, body { margin: 0; }
+  body {
+    background: var(--bg);
+    color: var(--text);
+    font: 15px/1.45 system-ui, -apple-system, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    -webkit-font-smoothing: antialiased;
+  }
+  a { color: inherit; }
+  .wrap { max-width: 1180px; margin: 0 auto; padding: 24px 20px 64px; }
+
+  header { display: flex; flex-wrap: wrap; align-items: baseline; gap: 8px 16px; margin-bottom: 18px; }
+  header h1 { font-size: 26px; margin: 0; letter-spacing: -.01em; }
+  header .updated { color: var(--muted); font-size: 13px; }
+
+  .controls { display: flex; flex-wrap: wrap; gap: 10px; align-items: center; margin-bottom: 18px; }
+  .chips { display: flex; flex-wrap: wrap; gap: 6px; }
+  .chip {
+    border: 1px solid var(--line); background: var(--surface); color: var(--text);
+    border-radius: 999px; padding: 6px 12px; font-size: 13px; cursor: pointer; line-height: 1;
+    display: inline-flex; align-items: center; gap: 6px;
+  }
+  .chip[aria-pressed="true"] { background: var(--text); color: var(--bg); border-color: var(--text); }
+  .chip .n { opacity: .65; font-variant-numeric: tabular-nums; }
+  .search {
+    flex: 1 1 200px; max-width: 360px; margin-left: auto;
+    border: 1px solid var(--line); background: var(--surface); color: var(--text);
+    border-radius: 999px; padding: 8px 14px; font: inherit; font-size: 14px;
+  }
+  .search:focus { outline: 2px solid var(--accent); outline-offset: 1px; }
+
+  .notice {
+    background: var(--warn-bg); color: var(--warn-text); border-radius: 10px;
+    padding: 10px 14px; font-size: 13px; margin-bottom: 18px;
+  }
+  .notice + .notice { margin-top: -10px; }
+
+  .day { margin: 28px 0 12px; display: flex; align-items: baseline; gap: 10px; }
+  .day h2 { font-size: 15px; margin: 0; font-weight: 600; }
+  .day .count { color: var(--muted); font-size: 13px; }
+
+  .grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(250px, 1fr)); gap: 16px; }
+
+  .card {
+    background: var(--surface); border: 1px solid var(--line); border-radius: var(--radius);
+    overflow: hidden; display: flex; flex-direction: column; box-shadow: var(--shadow);
+    transition: transform .12s ease;
+  }
+  .card:hover { transform: translateY(-2px); }
+  .thumb { position: relative; aspect-ratio: 16 / 9; background: var(--surface-2); overflow: hidden; }
+  .thumb img { width: 100%; height: 100%; object-fit: cover; display: block; }
+  .thumb.missing img { display: none; }
+  .thumb.missing::after {
+    content: "No image"; position: absolute; inset: 0; display: grid; place-items: center;
+    color: var(--muted); font-size: 13px;
+  }
+  .badge {
+    position: absolute; top: 8px; left: 8px; font-size: 11px; font-weight: 700; letter-spacing: .04em;
+    text-transform: uppercase; padding: 4px 8px; border-radius: 6px; color: #fff;
+    background: var(--retail);
+  }
+  .badge.kickstarter { background: var(--kickstarter); color: var(--kickstarter-text); }
+  .badge.gamefound { background: var(--gamefound); }
+
+  .body { padding: 12px 14px 14px; display: flex; flex-direction: column; gap: 6px; flex: 1; }
+  .title { font-weight: 650; font-size: 15.5px; line-height: 1.25; margin: 0; }
+  .title a { text-decoration: none; }
+  .title a:hover { text-decoration: underline; }
+  .sub { color: var(--muted); font-size: 13px; }
+  .blurb {
+    color: var(--muted); font-size: 13px; margin: 0;
+    display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden;
+  }
+  .meta { margin-top: auto; padding-top: 6px; font-size: 13px; color: var(--muted); display: flex; flex-direction: column; gap: 6px; }
+  .meta strong { color: var(--text); font-weight: 600; }
+  .bar { height: 5px; background: var(--bar); border-radius: 999px; overflow: hidden; }
+  .bar > i { display: block; height: 100%; background: var(--accent); border-radius: 999px; }
+  .bar.funded > i { background: var(--kickstarter); }
+  .funding { display: flex; justify-content: space-between; gap: 8px; font-variant-numeric: tabular-nums; }
+
+  .empty { color: var(--muted); padding: 48px 0; text-align: center; }
+  footer { margin-top: 48px; color: var(--muted); font-size: 12.5px; }
+  footer a { color: var(--muted); }
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header>
+    <h1>New Board Games</h1>
+    <span class="updated" id="updated">Loading…</span>
+  </header>
+
+  <div class="controls">
+    <div class="chips" id="chips" role="group" aria-label="Filter by source"></div>
+    <input class="search" id="search" type="search" placeholder="Search titles, publishers…" aria-label="Search">
+  </div>
+
+  <div id="notices"></div>
+  <main id="list"><div class="empty">Loading…</div></main>
+
+  <footer>
+    Retail releases from <a href="https://boardgamegeek.com/newreleases" target="_blank" rel="noopener">BoardGameGeek</a>
+    (date shown is the week the game appeared on BGG's New Releases list). Crowdfunding campaigns from
+    <a href="https://gamefound.com" target="_blank" rel="noopener">Gamefound</a> and
+    <a href="https://www.kicktraq.com" target="_blank" rel="noopener">Kicktraq</a> (Kickstarter campaigns that are funded or have 100+ backers).
+    Showing the last <span id="window">30</span> days; campaigns are listed only while still active.
+  </footer>
+</div>
+
+<script>
+(() => {
+  const SOURCES = [
+    ['all', 'All'],
+    ['retail', 'Retail'],
+    ['kickstarter', 'Kickstarter'],
+    ['gamefound', 'Gamefound'],
+  ];
+  const LABEL = { retail: 'Retail', kickstarter: 'Kickstarter', gamefound: 'Gamefound' };
+
+  const state = { filter: 'all', q: '', data: null };
+  const $ = (id) => document.getElementById(id);
+
+  const esc = (s) => String(s ?? '').replace(/[&<>"']/g, (c) => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[c]));
+
+  const DAY = 86_400_000;
+  const fmtShort = new Intl.DateTimeFormat(undefined, { month: 'short', day: 'numeric' });
+  const fmtLong = new Intl.DateTimeFormat(undefined, { month: 'short', day: 'numeric', year: 'numeric' });
+  const fmtHeading = new Intl.DateTimeFormat(undefined, { weekday: 'long', month: 'long', day: 'numeric' });
+  const utcDay = (iso) => new Date(`${iso}T12:00:00Z`); // noon avoids TZ day-shifts in headings
+
+  function relative(iso) {
+    const diff = Date.now() - new Date(iso).getTime();
+    const m = Math.round(diff / 60_000);
+    if (m < 2) return 'just now';
+    if (m < 60) return `${m} min ago`;
+    const h = Math.round(m / 60);
+    if (h < 36) return `${h} hour${h === 1 ? '' : 's'} ago`;
+    const d = Math.round(h / 24);
+    return `${d} day${d === 1 ? '' : 's'} ago`;
+  }
+
+  function heading(iso) {
+    const today = new Date().toISOString().slice(0, 10);
+    const yesterday = new Date(Date.now() - DAY).toISOString().slice(0, 10);
+    if (iso === today) return 'Today';
+    if (iso === yesterday) return 'Yesterday';
+    return fmtHeading.format(utcDay(iso));
+  }
+
+  function money(value, currency) {
+    if (value == null || value === '') return null;
+    if (typeof value === 'string') return value;
+    try {
+      return new Intl.NumberFormat(undefined, { style: 'currency', currency, maximumFractionDigits: 0 }).format(value);
+    } catch {
+      return `${Math.round(value).toLocaleString()} ${currency || ''}`.trim();
+    }
+  }
+
+  function campaignMeta(it) {
+    const start = new Date(it.startDate), end = new Date(it.endDate);
+    const daysLeft = Math.max(0, Math.ceil((end - Date.now()) / DAY));
+    const range = `${fmtShort.format(start)} – ${fmtLong.format(end)}`;
+    const left = daysLeft === 0 ? 'ends today' : `${daysLeft} day${daysLeft === 1 ? '' : 's'} left`;
+    const pct = it.percent == null ? null : Math.max(0, Math.round(it.percent));
+    const raised = money(it.raised, it.currency), goal = money(it.goal, it.currency);
+    const fundingText = [
+      pct != null ? `${pct.toLocaleString()}% funded` : null,
+      raised && goal ? `${raised} of ${goal}` : null,
+    ].filter(Boolean).join(' · ');
+    const backers = `${(it.backers ?? 0).toLocaleString()} backer${it.backers === 1 ? '' : 's'}`;
+    return `
+      <div><strong>${esc(range)}</strong> · ${esc(left)}</div>
+      ${pct != null ? `<div class="bar${pct >= 100 ? ' funded' : ''}"><i style="width:${Math.min(100, pct)}%"></i></div>` : ''}
+      <div class="funding"><span>${esc(fundingText)}</span><span>${esc(backers)}</span></div>`;
+  }
+
+  function retailMeta(it) {
+    const year = it.yearPublished ? ` · ${esc(it.yearPublished)}` : '';
+    return `<div>Released week of <strong>${esc(fmtLong.format(utcDay(it.date)))}</strong>${year}</div>`;
+  }
+
+  function card(it) {
+    const srcset = it.thumb2x ? ` srcset="${esc(it.thumb)} 1x, ${esc(it.thumb2x)} 2x"` : '';
+    const img = it.thumb
+      ? `<img loading="lazy" referrerpolicy="no-referrer" src="${esc(it.thumb)}"${srcset} alt="" onerror="this.parentNode.classList.add('missing')">`
+      : '';
+    return `
+      <article class="card">
+        <a class="thumb${it.thumb ? '' : ' missing'}" href="${esc(it.url)}" target="_blank" rel="noopener" tabindex="-1" aria-hidden="true">
+          ${img}
+          <span class="badge ${esc(it.source)}">${esc(LABEL[it.source] || it.source)}</span>
+        </a>
+        <div class="body">
+          <h3 class="title"><a href="${esc(it.url)}" target="_blank" rel="noopener">${esc(it.title)}</a></h3>
+          ${it.subtitle ? `<div class="sub">${esc(it.subtitle)}</div>` : ''}
+          ${it.publisher ? `<div class="sub">${esc(it.publisher)}</div>` : ''}
+          ${it.blurb ? `<p class="blurb">${esc(it.blurb)}</p>` : ''}
+          <div class="meta">${it.source === 'retail' ? retailMeta(it) : campaignMeta(it)}</div>
+        </div>
+      </article>`;
+  }
+
+  function matches(it) {
+    if (state.filter !== 'all' && it.source !== state.filter) return false;
+    if (!state.q) return true;
+    const hay = `${it.title} ${it.subtitle || ''} ${it.publisher || ''} ${it.blurb || ''}`.toLowerCase();
+    return hay.includes(state.q);
+  }
+
+  function renderChips() {
+    const counts = {};
+    for (const it of state.data.items) counts[it.source] = (counts[it.source] || 0) + 1;
+    counts.all = state.data.items.length;
+    $('chips').innerHTML = SOURCES.map(([key, label]) =>
+      `<button class="chip" type="button" data-filter="${key}" aria-pressed="${state.filter === key}">
+        ${label} <span class="n">${(counts[key] || 0).toLocaleString()}</span></button>`).join('');
+  }
+
+  function renderNotices() {
+    const out = [];
+    for (const [name, s] of Object.entries(state.data.sources || {})) {
+      if (s.ok) continue;
+      const since = s.staleSince ? ` since ${fmtLong.format(new Date(s.staleSince))}` : '';
+      out.push(`<div class="notice"><strong>${esc(LABEL[name] || name)}</strong> data could not be refreshed${since}; showing the last successful fetch.</div>`);
+    }
+    $('notices').innerHTML = out.join('');
+  }
+
+  function renderList() {
+    const items = state.data.items.filter(matches);
+    if (!items.length) {
+      $('list').innerHTML = '<div class="empty">Nothing matches.</div>';
+      return;
+    }
+    const groups = new Map();
+    for (const it of items) {
+      if (!groups.has(it.date)) groups.set(it.date, []);
+      groups.get(it.date).push(it);
+    }
+    $('list').innerHTML = [...groups].map(([date, list]) => `
+      <section>
+        <div class="day"><h2>${esc(heading(date))}</h2><span class="count">${list.length}</span></div>
+        <div class="grid">${list.map(card).join('')}</div>
+      </section>`).join('');
+  }
+
+  function render() {
+    renderChips();
+    renderNotices();
+    renderList();
+  }
+
+  $('chips').addEventListener('click', (e) => {
+    const btn = e.target.closest('[data-filter]');
+    if (!btn) return;
+    state.filter = btn.dataset.filter;
+    render();
+  });
+  $('search').addEventListener('input', (e) => {
+    state.q = e.target.value.trim().toLowerCase();
+    renderList();
+  });
+
+  fetch('data/games.json', { cache: 'no-cache' })
+    .then((r) => { if (!r.ok) throw new Error(`HTTP ${r.status}`); return r.json(); })
+    .then((data) => {
+      state.data = data;
+      $('updated').textContent = `Updated ${relative(data.updatedAt)}`;
+      $('updated').title = new Date(data.updatedAt).toLocaleString();
+      $('window').textContent = data.windowDays ?? 30;
+      render();
+    })
+    .catch((err) => {
+      $('updated').textContent = 'Could not load data';
+      $('list').innerHTML = `<div class="empty">Failed to load data/games.json (${esc(err.message)}).</div>`;
+    });
+})();
+</script>
+</body>
+</html>

@@ -1,0 +1,13 @@
+{
+  "name": "game-notifier",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Static GitHub Pages site listing new board game releases and crowdfunding campaigns, refreshed nightly.",
+  "type": "module",
+  "engines": { "node": ">=20" },
+  "scripts": {
+    "update": "node scripts/update.mjs",
+    "test": "node --test",
+    "serve": "python3 -m http.server 8080"
+  }
+}

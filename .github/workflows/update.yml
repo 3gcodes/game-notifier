@@ -1,0 +1,43 @@
+name: Update releases
+
+on:
+  schedule:
+    - cron: "15 8 * * *" # nightly, 08:15 UTC
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      - name: Run parser tests
+        run: node --test
+
+      - name: Fetch releases and campaigns
+        run: node scripts/update.mjs
+        env:
+          BGG_TOKEN: ${{ secrets.BGG_TOKEN }} # optional, unused for now
+
+      - name: Commit data
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/
+          if git diff --cached --quiet; then
+            echo "No data changes."
+          else
+            git commit -m "data: nightly update $(date -u +%F)"
+            git push
+          fi
