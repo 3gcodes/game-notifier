@@ -1,27 +1,45 @@
 {
-  "updatedAt": "2026-11-06T15:53:17.054Z",
+  "updatedAt": "2026-11-07T14:51:55.487Z",
   "windowDays": 30,
   "sources": {
     "retail": {
       "ok": true,
-      "count": 147,
+      "count": 118,
       "rawCount": 30,
-      "fetchedAt": "2026-11-06T15:53:17.054Z"
+      "fetchedAt": "2026-11-07T14:51:55.487Z"
     },
     "gamefound": {
       "ok": true,
-      "count": 53,
-      "rawCount": 54,
-      "fetchedAt": "2026-11-06T15:53:17.054Z"
+      "count": 48,
+      "rawCount": 49,
+      "fetchedAt": "2026-11-07T14:51:55.487Z"
     },
     "kickstarter": {
       "ok": true,
-      "count": 198,
-      "rawCount": 330,
-      "fetchedAt": "2026-11-06T15:53:17.054Z"
+      "count": 192,
+      "rawCount": 315,
+      "fetchedAt": "2026-11-07T14:51:55.487Z"
     }
   },
   "items": [
+    {
+      "id": "kickstarter:amcmstudios/natasha-and-chloe-3d-printable-teacher-and-student-pin-ups",
+      "source": "kickstarter",
+      "title": "Natasha & Chloe: 3D Printable Teacher & Student Pin-Ups",
+      "subtitle": null,
+      "publisher": "amcmstudios",
+      "blurb": "Stls in high quality for 3d printing, 180mm, 75mm & 32mm scale pin-up for tabletop games, RPG, and collect",
+      "thumb": "https://i.kickstarter.com/assets/055/802/515/be9ff70daae870794f94959a81dc437d_original.png?anim=false&fit=cover&gravity=auto&height=90&origin=ugc&q=92&v=1793974571&width=160&sig=i4ctrqw2WUeIjZcjf8Y2EcDXB6ioetJwX9WBjTddlPE%3D",
+      "url": "https://www.kickstarter.com/projects/amcmstudios/natasha-and-chloe-3d-printable-teacher-and-student-pin-ups",
+      "date": "2026-11-06",
+      "startDate": "2026-11-06T00:00:00Z",
+      "endDate": "2026-11-17T23:59:59Z",
+      "backers": 62,
+      "goal": "$100",
+      "raised": "$1,044",
+      "currency": null,
+      "percent": 1044
+    },
     {
       "id": "gamefound:milecode/somewhere-else",
       "source": "gamefound",
@@ -34,9 +52,9 @@
       "date": "2026-11-06",
       "startDate": "2026-11-06T14:00:00Z",
       "endDate": "2026-12-04T19:00:00Z",
-      "backers": 1,
+      "backers": 2,
       "goal": 5000,
-      "raised": 6.25,
+      "raised": 18.25,
       "currency": "EUR",
       "percent": 0
     },
@@ -52,11 +70,11 @@
       "date": "2026-11-06",
       "startDate": "2026-11-06T00:00:00Z",
       "endDate": "2026-11-23T23:59:59Z",
-      "backers": 38,
+      "backers": 324,
       "goal": "£666",
-      "raised": "£2,862",
+      "raised": "£27,701",
       "currency": null,
-      "percent": 429
+      "percent": 4159
     },
     {
       "id": "kickstarter:drmgames/2d6-dungeon-goblins-a-solo-player-dungeon-crawler",
@@ -70,11 +88,11 @@
       "date": "2026-11-05",
       "startDate": "2026-11-05T00:00:00Z",
       "endDate": "2026-12-03T23:59:59Z",
-      "backers": 274,
+      "backers": 315,
       "goal": "£10,000",
-      "raised": "£23,590",
+      "raised": "£26,753",
       "currency": null,
-      "percent": 235
+      "percent": 267
     },
     {
       "id": "kickstarter:marcosalogni/depth-print-and-play",
@@ -88,11 +106,11 @@
       "date": "2026-11-05",
       "startDate": "2026-11-05T00:00:00Z",
       "endDate": "2026-12-03T23:59:59Z",
-      "backers": 56,
+      "backers": 62,
       "goal": "€100",
-      "raised": "€373",
+      "raised": "€380",
       "currency": null,
-      "percent": 373
+      "percent": 380
     },
     {
       "id": "kickstarter:spiritofresinmini/fine-art-series-vol-3-artistic-female-nude-stl",
@@ -124,11 +142,11 @@
       "date": "2026-11-05",
       "startDate": "2026-11-05T00:00:00Z",
       "endDate": "2026-12-05T23:59:59Z",
-      "backers": 121,
+      "backers": 127,
       "goal": "$1,000",
-      "raised": "$5,227",
+      "raised": "$5,521",
       "currency": null,
-      "percent": 522
+      "percent": 552
     },
     {
       "id": "kickstarter:elvenfoundryok/hunting-season-three-monster-hunt-5e-one-shots",
@@ -142,11 +160,11 @@
       "date": "2026-11-05",
       "startDate": "2026-11-05T00:00:00Z",
       "endDate": "2026-11-25T23:59:59Z",
-      "backers": 28,
+      "backers": 36,
       "goal": "€100",
-      "raised": "€243",
+      "raised": "€315",
       "currency": null,
-      "percent": 243
+      "percent": 315
     },
     {
       "id": "kickstarter:adaevycreations/re-animator-forbidden-science",
@@ -160,11 +178,11 @@
       "date": "2026-11-05",
       "startDate": "2026-11-05T00:00:00Z",
       "endDate": "2026-11-12T23:59:59Z",
-      "backers": 122,
+      "backers": 139,
       "goal": "€900",
-      "raised": "€2,326",
+      "raised": "€2,615",
       "currency": null,
-      "percent": 258
+      "percent": 290
     },
     {
       "id": "kickstarter:jorritschlueter/rpg-adventure-stamps-icelands-set",
@@ -178,11 +196,11 @@
       "date": "2026-11-05",
       "startDate": "2026-11-05T00:00:00Z",
       "endDate": "2026-11-10T23:59:59Z",
-      "backers": 27,
+      "backers": 31,
       "goal": "€25",
-      "raised": "€271",
+      "raised": "€319",
       "currency": null,
-      "percent": 1084
+      "percent": 1276
     },
     {
       "id": "kickstarter:alwaysgamescreations/sci-fi-jauntas-reach-settlement-tabletop-terrain",
@@ -196,11 +214,29 @@
       "date": "2026-11-05",
       "startDate": "2026-11-05T00:00:00Z",
       "endDate": "2026-12-05T23:59:59Z",
-      "backers": 41,
+      "backers": 45,
       "goal": "£500",
-      "raised": "£1,395",
+      "raised": "£1,515",
       "currency": null,
-      "percent": 279
+      "percent": 303
+    },
+    {
+      "id": "kickstarter:3ddforge/shoguns-castle-town-feudal-japan-terrain-28mm-stl",
+      "source": "kickstarter",
+      "title": "Shogun's Castle Town: Feudal Japan Terrain | 28mm STL",
+      "subtitle": null,
+      "publisher": "3ddforge",
+      "blurb": "A samurai castle, a dojo, a swordsmith forge, ninja and legendary yokai. 28-32mm STL, made for FDM.",
+      "thumb": "https://i.kickstarter.com/assets/055/777/071/5d38faab6fd2698b4f77c5f777fd3676_original.jpg?anim=false&fit=cover&gravity=auto&height=90&origin=ugc&q=92&v=1793809766&width=160&sig=IBxGK%2BGLUDeCL1Z4xBF9DI%2BQUc61hHT2Jgvl9%2BFQMhg%3D",
+      "url": "https://www.kickstarter.com/projects/3ddforge/shoguns-castle-town-feudal-japan-terrain-28mm-stl",
+      "date": "2026-11-05",
+      "startDate": "2026-11-05T00:00:00Z",
+      "endDate": "2026-11-12T23:59:59Z",
+      "backers": 26,
+      "goal": "€100",
+      "raised": "€684",
+      "currency": null,
+      "percent": 684
     },
     {
       "id": "retail:462564",
@@ -253,11 +289,11 @@
       "date": "2026-11-04",
       "startDate": "2026-11-04T00:00:00Z",
       "endDate": "2026-12-04T23:59:59Z",
-      "backers": 52,
+      "backers": 53,
       "goal": "€900",
-      "raised": "€1,729",
+      "raised": "€1,749",
       "currency": null,
-      "percent": 192
+      "percent": 194
     },
     {
       "id": "retail:459928",
@@ -310,11 +346,11 @@
       "date": "2026-11-04",
       "startDate": "2026-11-04T15:00:00Z",
       "endDate": "2026-11-19T01:00:00Z",
-      "backers": 63,
+      "backers": 71,
       "goal": 12000,
-      "raised": 4133.86,
+      "raised": 4724.22,
       "currency": "USD",
-      "percent": 34
+      "percent": 39
     },
     {
       "id": "retail:473348",
@@ -354,9 +390,9 @@
       "date": "2026-11-04",
       "startDate": "2026-11-04T17:00:00Z",
       "endDate": "2026-12-02T17:00:00Z",
-      "backers": 8,
+      "backers": 7,
       "goal": 5000,
-      "raised": 255.4,
+      "raised": 231,
       "currency": "EUR",
       "percent": 5
     },
@@ -476,11 +512,11 @@
       "date": "2026-11-04",
       "startDate": "2026-11-04T00:00:00Z",
       "endDate": "2026-12-04T23:59:59Z",
-      "backers": 74,
+      "backers": 79,
       "goal": "HK$10,000",
-      "raised": "HK$91,005",
+      "raised": "HK$95,721",
       "currency": null,
-      "percent": 910
+      "percent": 957
     },
     {
       "id": "retail:446695",
@@ -624,11 +660,11 @@
       "date": "2026-11-04",
       "startDate": "2026-11-04T00:00:00Z",
       "endDate": "2026-12-04T23:59:59Z",
-      "backers": 74,
+      "backers": 77,
       "goal": "$5,000",
-      "raised": "$5,490",
+      "raised": "$5,580",
       "currency": null,
-      "percent": 109
+      "percent": 111
     },
     {
       "id": "kickstarter:xykit/towers-of-the-mist",
@@ -642,11 +678,11 @@
       "date": "2026-11-04",
       "startDate": "2026-11-04T00:00:00Z",
       "endDate": "2026-11-22T23:59:59Z",
-      "backers": 81,
+      "backers": 88,
       "goal": "$2,500",
-      "raised": "$3,284",
+      "raised": "$3,572",
       "currency": null,
-      "percent": 131
+      "percent": 142
     },
     {
       "id": "gamefound:e-raptor/Ultimate-TCG-and-Miniature-Storage",
@@ -660,11 +696,11 @@
       "date": "2026-11-04",
       "startDate": "2026-11-04T13:00:00Z",
       "endDate": "2026-11-24T15:00:00Z",
-      "backers": 13,
+      "backers": 14,
       "goal": 1500,
-      "raised": 1336.68,
+      "raised": 1598.48,
       "currency": "EUR",
-      "percent": 89
+      "percent": 107
     },
     {
       "id": "retail:464543",
@@ -704,11 +740,11 @@
       "date": "2026-11-04",
       "startDate": "2026-11-04T00:00:00Z",
       "endDate": "2026-11-19T23:59:59Z",
-      "backers": 74,
+      "backers": 85,
       "goal": "$100",
-      "raised": "$3,022",
+      "raised": "$3,514",
       "currency": null,
-      "percent": 3022
+      "percent": 3514
     },
     {
       "id": "retail:346142",
@@ -735,11 +771,11 @@
       "date": "2026-11-04",
       "startDate": "2026-11-04T07:00:00Z",
       "endDate": "2026-11-26T07:00:00Z",
-      "backers": 36,
+      "backers": 40,
       "goal": 10000,
-      "raised": 2082.64,
+      "raised": 2280.53,
       "currency": "EUR",
-      "percent": 21
+      "percent": 23
     },
     {
       "id": "retail:347509",
@@ -766,11 +802,11 @@
       "date": "2026-11-04",
       "startDate": "2026-11-04T00:00:00Z",
       "endDate": "2026-11-10T23:59:59Z",
-      "backers": 81,
+      "backers": 86,
       "goal": "€10",
-      "raised": "€308",
+      "raised": "€317",
       "currency": null,
-      "percent": 3080
+      "percent": 3170
     },
     {
       "id": "kickstarter:lucky-duck-games/accidental-heroes-0",
@@ -784,11 +820,11 @@
       "date": "2026-11-03",
       "startDate": "2026-11-03T00:00:00Z",
       "endDate": "2026-11-24T23:59:59Z",
-      "backers": 426,
+      "backers": 522,
       "goal": "€40,000",
-      "raised": "€48,683",
+      "raised": "€58,429",
       "currency": null,
-      "percent": 121
+      "percent": 146
     },
     {
       "id": "kickstarter:irenes-grimoire/adventurers-journal-all-you-need-for-your-dandd-campaign",
@@ -802,11 +838,11 @@
       "date": "2026-11-03",
       "startDate": "2026-11-03T00:00:00Z",
       "endDate": "2026-12-03T23:59:59Z",
-      "backers": 60,
+      "backers": 65,
       "goal": "€3,600",
-      "raised": "€4,081",
+      "raised": "€4,341",
       "currency": null,
-      "percent": 113
+      "percent": 120
     },
     {
       "id": "kickstarter:1399759834/army-of-the-dark-the-fallen-crusade-32mm-grimdark-3d-stl",
@@ -820,11 +856,11 @@
       "date": "2026-11-03",
       "startDate": "2026-11-03T00:00:00Z",
       "endDate": "2026-11-24T23:59:59Z",
-      "backers": 58,
+      "backers": 62,
       "goal": "£100",
-      "raised": "£1,882",
+      "raised": "£2,008",
       "currency": null,
-      "percent": 1882
+      "percent": 2007
     },
     {
       "id": "kickstarter:badcomet/atlanteum",
@@ -838,11 +874,11 @@
       "date": "2026-11-03",
       "startDate": "2026-11-03T00:00:00Z",
       "endDate": "2026-11-19T23:59:59Z",
-      "backers": 1253,
+      "backers": 1355,
       "goal": "$10,000",
-      "raised": "$86,770",
+      "raised": "$93,600",
       "currency": null,
-      "percent": 867
+      "percent": 936
     },
     {
       "id": "kickstarter:queengames/alhambra-sultans-quest",
@@ -856,11 +892,11 @@
       "date": "2026-11-03",
       "startDate": "2026-11-03T00:00:00Z",
       "endDate": "2026-11-09T23:59:59Z",
-      "backers": 312,
+      "backers": 332,
       "goal": "$2,000",
-      "raised": "$23,430",
+      "raised": "$24,283",
       "currency": null,
-      "percent": 1171
+      "percent": 1214
     },
     {
       "id": "kickstarter:991612028/dark-bishops",
@@ -874,11 +910,11 @@
       "date": "2026-11-03",
       "startDate": "2026-11-03T00:00:00Z",
       "endDate": "2026-11-10T23:59:59Z",
-      "backers": 33,
+      "backers": 32,
       "goal": "MX$3,200",
-      "raised": "MX$8,480",
+      "raised": "MX$8,240",
       "currency": null,
-      "percent": 265
+      "percent": 257
     },
     {
       "id": "gamefound:arkada-studio/erune---echoes-of-hollow-woods",
@@ -892,11 +928,11 @@
       "date": "2026-11-03",
       "startDate": "2026-11-03T17:00:00Z",
       "endDate": "2026-11-23T17:00:00Z",
-      "backers": 891,
+      "backers": 913,
       "goal": 30000,
-      "raised": 150895.67,
+      "raised": 156298.13,
       "currency": "EUR",
-      "percent": 503
+      "percent": 521
     },
     {
       "id": "gamefound:tabletop-tycoon/fable-quest",
@@ -910,11 +946,11 @@
       "date": "2026-11-03",
       "startDate": "2026-11-03T14:00:00Z",
       "endDate": "2026-11-20T01:00:00Z",
-      "backers": 694,
+      "backers": 723,
       "goal": 20000,
-      "raised": 140795.04,
+      "raised": 146313.69,
       "currency": "USD",
-      "percent": 704
+      "percent": 732
     },
     {
       "id": "gamefound:helsinki-hub/junk-n-gems",
@@ -928,11 +964,11 @@
       "date": "2026-11-03",
       "startDate": "2026-11-03T16:00:00Z",
       "endDate": "2026-11-17T20:00:00Z",
-      "backers": 56,
+      "backers": 59,
       "goal": 1000,
-      "raised": 1166.6,
+      "raised": 1232.6,
       "currency": "EUR",
-      "percent": 117
+      "percent": 123
     },
     {
       "id": "gamefound:wonderbow-games/kelp-shark-vs-octopus-offshore-offspring-expansion",
@@ -946,11 +982,11 @@
       "date": "2026-11-03",
       "startDate": "2026-11-03T14:00:00Z",
       "endDate": "2026-11-18T15:00:00Z",
-      "backers": 2549,
+      "backers": 2654,
       "goal": 8000,
-      "raised": 265375,
+      "raised": 276804,
       "currency": "EUR",
-      "percent": 3317
+      "percent": 3460
     },
     {
       "id": "kickstarter:grammesedition/one-page-quest",
@@ -964,11 +1000,11 @@
       "date": "2026-11-03",
       "startDate": "2026-11-03T00:00:00Z",
       "endDate": "2026-11-24T23:59:59Z",
-      "backers": 2001,
+      "backers": 2218,
       "goal": "€800",
-      "raised": "€17,438",
+      "raised": "€19,256",
       "currency": null,
-      "percent": 2179
+      "percent": 2407
     },
     {
       "id": "kickstarter:2033828307/proto-elite-gals",
@@ -982,11 +1018,11 @@
       "date": "2026-11-03",
       "startDate": "2026-11-03T00:00:00Z",
       "endDate": "2026-11-10T23:59:59Z",
-      "backers": 33,
+      "backers": 32,
       "goal": "MX$2,700",
-      "raised": "MX$8,520",
+      "raised": "MX$8,280",
       "currency": null,
-      "percent": 315
+      "percent": 306
     },
     {
       "id": "kickstarter:restingames/sbeng",
@@ -1000,11 +1036,11 @@
       "date": "2026-11-03",
       "startDate": "2026-11-03T00:00:00Z",
       "endDate": "2026-12-03T23:59:59Z",
-      "backers": 120,
+      "backers": 122,
       "goal": "€6,000",
-      "raised": "€6,368",
+      "raised": "€6,422",
       "currency": null,
-      "percent": 106
+      "percent": 107
     },
     {
       "id": "kickstarter:blackbook/shadowrun-anarchy-20-over-the-edge",
@@ -1018,11 +1054,11 @@
       "date": "2026-11-03",
       "startDate": "2026-11-03T00:00:00Z",
       "endDate": "2026-11-19T23:59:59Z",
-      "backers": 1530,
+      "backers": 1578,
       "goal": "€10,000",
-      "raised": "€140,899",
+      "raised": "€145,470",
       "currency": null,
-      "percent": 1408
+      "percent": 1454
     },
     {
       "id": "gamefound:thespacecollective/starheroes",
@@ -1036,11 +1072,11 @@
       "date": "2026-11-03",
       "startDate": "2026-11-03T16:00:00Z",
       "endDate": "2026-11-26T22:00:00Z",
-      "backers": 107,
+      "backers": 116,
       "goal": 20000,
-      "raised": 36992.16,
+      "raised": 41668.31,
       "currency": "GBP",
-      "percent": 185
+      "percent": 208
     },
     {
       "id": "kickstarter:strikepoint/strike-point-arena",
@@ -1054,11 +1090,11 @@
       "date": "2026-11-03",
       "startDate": "2026-11-03T00:00:00Z",
       "endDate": "2026-12-03T23:59:59Z",
-      "backers": 214,
+      "backers": 231,
       "goal": "$17,500",
-      "raised": "$48,249",
+      "raised": "$52,031",
       "currency": null,
-      "percent": 275
+      "percent": 297
     },
     {
       "id": "kickstarter:npg/tap-10-inventions",
@@ -1072,11 +1108,11 @@
       "date": "2026-11-03",
       "startDate": "2026-11-03T00:00:00Z",
       "endDate": "2026-11-20T23:59:59Z",
-      "backers": 174,
+      "backers": 183,
       "goal": "€1,000",
-      "raised": "€7,130",
+      "raised": "€7,480",
       "currency": null,
-      "percent": 713
+      "percent": 748
     },
     {
       "id": "gamefound:modiphius/terry-pratchetts-discworld-rpg-adventures-in-lancre-and-uberwald",
@@ -1090,11 +1126,11 @@
       "date": "2026-11-03",
       "startDate": "2026-11-03T12:00:00Z",
       "endDate": "2026-11-25T20:00:00Z",
-      "backers": 1869,
+      "backers": 1945,
       "goal": 50000,
-      "raised": 357389.08,
+      "raised": 374212.1,
       "currency": "GBP",
-      "percent": 715
+      "percent": 748
     },
     {
       "id": "kickstarter:marcduer/zoo-tycoon-the-board-game-dinosaur-digs",
@@ -1108,11 +1144,11 @@
       "date": "2026-11-03",
       "startDate": "2026-11-03T00:00:00Z",
       "endDate": "2026-12-03T23:59:59Z",
-      "backers": 1259,
+      "backers": 1316,
       "goal": "CHF25,000",
-      "raised": "CHF170,133",
+      "raised": "CHF177,545",
       "currency": null,
-      "percent": 680
+      "percent": 710
     },
     {
       "id": "gamefound:baseraider/bug-out-escape-your-paranoia",
@@ -1144,11 +1180,11 @@
       "date": "2026-11-02",
       "startDate": "2026-11-02T00:00:00Z",
       "endDate": "2026-11-10T23:59:59Z",
-      "backers": 101,
+      "backers": 102,
       "goal": "€100",
-      "raised": "€1,954",
+      "raised": "€1,972",
       "currency": null,
-      "percent": 1954
+      "percent": 1972
     },
     {
       "id": "kickstarter:kyomigirls/jinx-belle",
@@ -1198,11 +1234,11 @@
       "date": "2026-11-02",
       "startDate": "2026-11-02T00:00:00Z",
       "endDate": "2026-11-13T23:59:59Z",
-      "backers": 30,
+      "backers": 31,
       "goal": "€300",
-      "raised": "€2,267",
+      "raised": "€2,390",
       "currency": null,
-      "percent": 755
+      "percent": 796
     },
     {
       "id": "kickstarter:382730535/nomad-sculpts-cloak-and-boot-part-1",
@@ -1216,11 +1252,11 @@
       "date": "2026-11-02",
       "startDate": "2026-11-02T00:00:00Z",
       "endDate": "2026-11-17T23:59:59Z",
-      "backers": 101,
+      "backers": 103,
       "goal": "£15",
-      "raised": "£1,262",
+      "raised": "£1,282",
       "currency": null,
-      "percent": 8413
+      "percent": 8546
     },
     {
       "id": "kickstarter:ravensridge/one-thousand-rats-devour-a-city",
@@ -1234,11 +1270,11 @@
       "date": "2026-11-02",
       "startDate": "2026-11-02T00:00:00Z",
       "endDate": "2026-11-20T23:59:59Z",
-      "backers": 672,
+      "backers": 698,
       "goal": "$30,000",
-      "raised": "$108,699",
+      "raised": "$112,239",
       "currency": null,
-      "percent": 362
+      "percent": 374
     },
     {
       "id": "kickstarter:someuntitled/rescue-a-strategic-card-game",
@@ -1252,11 +1288,11 @@
       "date": "2026-11-02",
       "startDate": "2026-11-02T00:00:00Z",
       "endDate": "2026-12-02T23:59:59Z",
-      "backers": 112,
+      "backers": 118,
       "goal": "$5,000",
-      "raised": "$8,398",
+      "raised": "$9,191",
       "currency": null,
-      "percent": 167
+      "percent": 183
     },
     {
       "id": "gamefound:hclivess/true-wind-the-sailing-sim-where-the-boat-is-computed",
@@ -1288,11 +1324,11 @@
       "date": "2026-11-01",
       "startDate": "2026-11-01T00:00:00Z",
       "endDate": "2026-11-11T23:59:59Z",
-      "backers": 162,
+      "backers": 164,
       "goal": "$100",
-      "raised": "$4,759",
+      "raised": "$4,813",
       "currency": null,
-      "percent": 4759
+      "percent": 4813
     },
     {
       "id": "gamefound:geektogethergg/platform",
@@ -1324,11 +1360,11 @@
       "date": "2026-10-31",
       "startDate": "2026-10-31T00:00:00Z",
       "endDate": "2026-11-14T23:59:59Z",
-      "backers": 52,
+      "backers": 53,
       "goal": "€100",
-      "raised": "€1,065",
+      "raised": "€1,081",
       "currency": null,
-      "percent": 1065
+      "percent": 1081
     },
     {
       "id": "kickstarter:vanguardterrain/industrial-enclave-redux",
@@ -1360,11 +1396,11 @@
       "date": "2026-10-31",
       "startDate": "2026-10-31T00:00:00Z",
       "endDate": "2026-11-10T23:59:59Z",
-      "backers": 261,
+      "backers": 273,
       "goal": "€50",
-      "raised": "€1,785",
+      "raised": "€1,893",
       "currency": null,
-      "percent": 3570
+      "percent": 3786
     },
     {
       "id": "kickstarter:meridianminiatures/vrag-rag-devil-ringleader-by-ana-polanscak",
@@ -1378,11 +1414,11 @@
       "date": "2026-10-31",
       "startDate": "2026-10-31T00:00:00Z",
       "endDate": "2026-11-10T23:59:59Z",
-      "backers": 170,
+      "backers": 174,
       "goal": "£1,000",
-      "raised": "£12,008",
+      "raised": "£12,278",
       "currency": null,
-      "percent": 1200
+      "percent": 1227
     },
     {
       "id": "kickstarter:wickedcraft3d/chibi-cuties-set-8-3d-printable-stls-ks-exclusive",
@@ -1414,11 +1450,11 @@
       "date": "2026-10-30",
       "startDate": "2026-10-30T00:00:00Z",
       "endDate": "2026-11-11T23:59:59Z",
-      "backers": 52,
+      "backers": 54,
       "goal": "$100",
-      "raised": "$1,649",
+      "raised": "$1,809",
       "currency": null,
-      "percent": 1648
+      "percent": 1809
     },
     {
       "id": "kickstarter:kraymerart/rollable-d20-dice-jewelry-for-all-your-dnd-classes",
@@ -1432,11 +1468,11 @@
       "date": "2026-10-30",
       "startDate": "2026-10-30T00:00:00Z",
       "endDate": "2026-11-17T23:59:59Z",
-      "backers": 437,
+      "backers": 466,
       "goal": "$1,000",
-      "raised": "$134,545",
+      "raised": "$156,230",
       "currency": null,
-      "percent": 13454
+      "percent": 15622
     },
     {
       "id": "kickstarter:crooked-dice/vampires-and-slayers-28mm-horror-miniatures",
@@ -1450,11 +1486,11 @@
       "date": "2026-10-30",
       "startDate": "2026-10-30T00:00:00Z",
       "endDate": "2026-11-08T23:59:59Z",
-      "backers": 171,
+      "backers": 185,
       "goal": "£1,000",
-      "raised": "£12,366",
+      "raised": "£13,083",
       "currency": null,
-      "percent": 1236
+      "percent": 1308
     },
     {
       "id": "kickstarter:toyboycreative/ares-frontier-planetary-survey-station-stl",
@@ -1470,9 +1506,9 @@
       "endDate": "2026-11-08T23:59:59Z",
       "backers": 27,
       "goal": "HK$1,000",
-      "raised": "HK$5,755",
+      "raised": "HK$5,246",
       "currency": null,
-      "percent": 575
+      "percent": 524
     },
     {
       "id": "kickstarter:divinecurves3d/cospals-pin-up-stl-models-120mm",
@@ -1504,11 +1540,11 @@
       "date": "2026-10-29",
       "startDate": "2026-10-29T00:00:00Z",
       "endDate": "2026-11-10T23:59:59Z",
-      "backers": 95,
+      "backers": 98,
       "goal": "$2,500",
-      "raised": "$8,840",
+      "raised": "$9,074",
       "currency": null,
-      "percent": 353
+      "percent": 362
     },
     {
       "id": "kickstarter:txarlifactory/fantasy-football-teams-vol-2",
@@ -1522,11 +1558,11 @@
       "date": "2026-10-29",
       "startDate": "2026-10-29T00:00:00Z",
       "endDate": "2026-11-13T23:59:59Z",
-      "backers": 231,
+      "backers": 239,
       "goal": "€1,000",
-      "raised": "€12,104",
+      "raised": "€12,627",
       "currency": null,
-      "percent": 1210
+      "percent": 1262
     },
     {
       "id": "gamefound:ex-regnum-publishing/game-masters-companion-avatar-the-last-airbender",
@@ -1540,11 +1576,11 @@
       "date": "2026-10-29",
       "startDate": "2026-10-29T15:00:00Z",
       "endDate": "2026-11-17T19:00:00Z",
-      "backers": 137,
+      "backers": 135,
       "goal": 30000,
-      "raised": 30155.63,
+      "raised": 29901.63,
       "currency": "EUR",
-      "percent": 101
+      "percent": 100
     },
     {
       "id": "gamefound:indie-boards-and-cards/heroes-of-gravehold",
@@ -1558,11 +1594,11 @@
       "date": "2026-10-29",
       "startDate": "2026-10-29T17:00:00Z",
       "endDate": "2026-11-25T00:00:00Z",
-      "backers": 1033,
+      "backers": 1055,
       "goal": 10000,
-      "raised": 92035.4,
+      "raised": 94064.6,
       "currency": "USD",
-      "percent": 920
+      "percent": 941
     },
     {
       "id": "kickstarter:3dipstudios/holy-war-grimdark-terrain",
@@ -1576,11 +1612,11 @@
       "date": "2026-10-29",
       "startDate": "2026-10-29T00:00:00Z",
       "endDate": "2026-11-19T23:59:59Z",
-      "backers": 131,
+      "backers": 138,
       "goal": "€500",
-      "raised": "€3,321",
+      "raised": "€3,794",
       "currency": null,
-      "percent": 664
+      "percent": 758
     },
     {
       "id": "kickstarter:martyrdom/martyrdom",
@@ -1594,11 +1630,11 @@
       "date": "2026-10-29",
       "startDate": "2026-10-29T00:00:00Z",
       "endDate": "2026-11-28T23:59:59Z",
-      "backers": 672,
+      "backers": 684,
       "goal": "£50,000",
-      "raised": "£184,374",
+      "raised": "£189,079",
       "currency": null,
-      "percent": 368
+      "percent": 378
     },
     {
       "id": "gamefound:microcosm-games/microcosm",
@@ -1612,11 +1648,11 @@
       "date": "2026-10-29",
       "startDate": "2026-10-29T15:00:00Z",
       "endDate": "2026-11-25T04:59:00Z",
-      "backers": 134,
+      "backers": 141,
       "goal": 15000,
-      "raised": 12077.08,
+      "raised": 12795.21,
       "currency": "USD",
-      "percent": 81
+      "percent": 85
     },
     {
       "id": "kickstarter:redclaycollect/multiverse-girls-stl-files",
@@ -1630,11 +1666,11 @@
       "date": "2026-10-29",
       "startDate": "2026-10-29T00:00:00Z",
       "endDate": "2026-11-16T23:59:59Z",
-      "backers": 50,
+      "backers": 52,
       "goal": "MX$5,000",
-      "raised": "MX$10,426",
+      "raised": "MX$11,026",
       "currency": null,
-      "percent": 208
+      "percent": 220
     },
     {
       "id": "kickstarter:120623639/rise-of-the-factions-fantasy-stl-miniatures",
@@ -1648,11 +1684,11 @@
       "date": "2026-10-29",
       "startDate": "2026-10-29T00:00:00Z",
       "endDate": "2026-11-13T23:59:59Z",
-      "backers": 26,
+      "backers": 27,
       "goal": "€150",
-      "raised": "€365",
+      "raised": "€375",
       "currency": null,
-      "percent": 243
+      "percent": 250
     },
     {
       "id": "kickstarter:amra3dart/witcher-elements-guardians-of-ocean-3d-print-miniature",
@@ -1666,11 +1702,11 @@
       "date": "2026-10-29",
       "startDate": "2026-10-29T00:00:00Z",
       "endDate": "2026-11-11T23:59:59Z",
-      "backers": 61,
+      "backers": 73,
       "goal": "MX$3,000",
-      "raised": "MX$21,440",
+      "raised": "MX$27,390",
       "currency": null,
-      "percent": 714
+      "percent": 913
     },
     {
       "id": "retail:456370",
@@ -1741,11 +1777,11 @@
       "date": "2026-10-28",
       "startDate": "2026-10-28T00:00:00Z",
       "endDate": "2026-11-19T23:59:59Z",
-      "backers": 112,
+      "backers": 115,
       "goal": "£13,500",
-      "raised": "£16,937",
+      "raised": "£17,682",
       "currency": null,
-      "percent": 125
+      "percent": 130
     },
     {
       "id": "kickstarter:1770307761/crypta-technica-techno-gothic-shrines-and-tombs",
@@ -1790,11 +1826,11 @@
       "date": "2026-10-28",
       "startDate": "2026-10-28T17:00:00Z",
       "endDate": "2026-11-28T18:00:00Z",
-      "backers": 235,
+      "backers": 240,
       "goal": 12000,
-      "raised": 51687.11,
+      "raised": 52222.11,
       "currency": "USD",
-      "percent": 431
+      "percent": 435
     },
     {
       "id": "retail:472690",
@@ -2016,11 +2052,11 @@
       "date": "2026-10-28",
       "startDate": "2026-10-28T00:00:00Z",
       "endDate": "2026-11-07T23:59:59Z",
-      "backers": 83,
+      "backers": 88,
       "goal": "€300",
-      "raised": "€2,058",
+      "raised": "€2,158",
       "currency": null,
-      "percent": 686
+      "percent": 719
     },
     {
       "id": "retail:477771",
@@ -2073,11 +2109,11 @@
       "date": "2026-10-28",
       "startDate": "2026-10-28T00:00:00Z",
       "endDate": "2026-11-12T23:59:59Z",
-      "backers": 62,
+      "backers": 61,
       "goal": "€100",
-      "raised": "€1,150",
+      "raised": "€1,118",
       "currency": null,
-      "percent": 1150
+      "percent": 1118
     },
     {
       "id": "kickstarter:lucius/1700-fantasy-props-terrain-and-gm-essentials-stl-pack",
@@ -2091,11 +2127,11 @@
       "date": "2026-10-27",
       "startDate": "2026-10-27T00:00:00Z",
       "endDate": "2026-11-26T23:59:59Z",
-      "backers": 100,
+      "backers": 103,
       "goal": "€100",
-      "raised": "€5,477",
+      "raised": "€5,653",
       "currency": null,
-      "percent": 5477
+      "percent": 5653
     },
     {
       "id": "kickstarter:cze/adventure-time-card-wars-2026",
@@ -2109,11 +2145,11 @@
       "date": "2026-10-27",
       "startDate": "2026-10-27T00:00:00Z",
       "endDate": "2026-11-25T23:59:59Z",
-      "backers": 3250,
+      "backers": 3286,
       "goal": "$100,000",
-      "raised": "$1,002,812",
+      "raised": "$1,017,733",
       "currency": null,
-      "percent": 1002
+      "percent": 1017
     },
     {
       "id": "kickstarter:midnighttradingco/aster-a-game-of-skysails-strategy-and-stellar-influence",
@@ -2127,11 +2163,11 @@
       "date": "2026-10-27",
       "startDate": "2026-10-27T00:00:00Z",
       "endDate": "2026-11-24T23:59:59Z",
-      "backers": 426,
+      "backers": 428,
       "goal": "£6,842",
-      "raised": "£31,216",
+      "raised": "£31,421",
       "currency": null,
-      "percent": 456
+      "percent": 459
     },
     {
       "id": "kickstarter:pirategonzalezgames/beacon-koronil",
@@ -2163,11 +2199,11 @@
       "date": "2026-10-27",
       "startDate": "2026-10-27T00:00:00Z",
       "endDate": "2026-11-24T23:59:59Z",
-      "backers": 2905,
+      "backers": 2946,
       "goal": "$15,000",
-      "raised": "$317,663",
+      "raised": "$322,475",
       "currency": null,
-      "percent": 2117
+      "percent": 2149
     },
     {
       "id": "kickstarter:imagnosis/coven-blitz-the-card-game",
@@ -2181,11 +2217,11 @@
       "date": "2026-10-27",
       "startDate": "2026-10-27T00:00:00Z",
       "endDate": "2026-11-26T23:59:59Z",
-      "backers": 104,
+      "backers": 105,
       "goal": "€3,000",
-      "raised": "€5,776",
+      "raised": "€5,809",
       "currency": null,
-      "percent": 192
+      "percent": 193
     },
     {
       "id": "kickstarter:criticalfix/critical-fix",
@@ -2199,11 +2235,11 @@
       "date": "2026-10-27",
       "startDate": "2026-10-27T00:00:00Z",
       "endDate": "2026-11-27T23:59:59Z",
-      "backers": 604,
+      "backers": 610,
       "goal": "$10,000",
-      "raised": "$54,847",
+      "raised": "$55,191",
       "currency": null,
-      "percent": 548
+      "percent": 551
     },
     {
       "id": "kickstarter:deadmeatproductions/dead-meat-presents-get-to-the-kills",
@@ -2217,11 +2253,11 @@
       "date": "2026-10-27",
       "startDate": "2026-10-27T00:00:00Z",
       "endDate": "2026-11-28T23:59:59Z",
-      "backers": 1182,
+      "backers": 1219,
       "goal": "$11,701",
-      "raised": "$110,301",
+      "raised": "$113,909",
       "currency": null,
-      "percent": 942
+      "percent": 973
     },
     {
       "id": "kickstarter:152730994/deception-heist-in-hong-kong",
@@ -2235,11 +2271,11 @@
       "date": "2026-10-27",
       "startDate": "2026-10-27T00:00:00Z",
       "endDate": "2026-11-20T23:59:59Z",
-      "backers": 876,
+      "backers": 899,
       "goal": "$14,999",
-      "raised": "$42,859",
+      "raised": "$44,041",
       "currency": null,
-      "percent": 285
+      "percent": 293
     },
     {
       "id": "kickstarter:lazylitch/the-lazy-litch-library",
@@ -2253,11 +2289,11 @@
       "date": "2026-10-27",
       "startDate": "2026-10-27T00:00:00Z",
       "endDate": "2026-11-26T23:59:59Z",
-      "backers": 456,
+      "backers": 463,
       "goal": "€5,000",
-      "raised": "€31,129",
+      "raised": "€31,676",
       "currency": null,
-      "percent": 622
+      "percent": 633
     },
     {
       "id": "kickstarter:democraticdogs/democratic-dogs",
@@ -2271,11 +2307,11 @@
       "date": "2026-10-27",
       "startDate": "2026-10-27T00:00:00Z",
       "endDate": "2026-11-26T23:59:59Z",
-      "backers": 68,
+      "backers": 69,
       "goal": "£1,000",
-      "raised": "£1,747",
+      "raised": "£1,761",
       "currency": null,
-      "percent": 174
+      "percent": 176
     },
     {
       "id": "kickstarter:wmtt/here-in-space-the-cosmic-conquest",
@@ -2289,11 +2325,11 @@
       "date": "2026-10-27",
       "startDate": "2026-10-27T00:00:00Z",
       "endDate": "2026-11-25T23:59:59Z",
-      "backers": 712,
+      "backers": 758,
       "goal": "$8,500",
-      "raised": "$81,814",
+      "raised": "$87,383",
       "currency": null,
-      "percent": 962
+      "percent": 1028
     },
     {
       "id": "kickstarter:jerdproductions/dragonspine-chronicles-volumes-2-and-3",
@@ -2327,7 +2363,7 @@
       "endDate": "2026-11-24T23:59:59Z",
       "backers": 64,
       "goal": "£2,250",
-      "raised": "£3,894",
+      "raised": "£3,909",
       "currency": null,
       "percent": 173
     },
@@ -2343,11 +2379,11 @@
       "date": "2026-10-27",
       "startDate": "2026-10-27T00:00:00Z",
       "endDate": "2026-11-27T23:59:59Z",
-      "backers": 523,
+      "backers": 527,
       "goal": "€20,000",
-      "raised": "€59,263",
+      "raised": "€59,584",
       "currency": null,
-      "percent": 296
+      "percent": 297
     },
     {
       "id": "kickstarter:hookedgames/exorcismo-what-a-dice-day-for-an-exorcism",
@@ -2361,11 +2397,11 @@
       "date": "2026-10-27",
       "startDate": "2026-10-27T00:00:00Z",
       "endDate": "2026-11-26T23:59:59Z",
-      "backers": 161,
+      "backers": 164,
       "goal": "€6,666",
-      "raised": "€4,071",
+      "raised": "€4,185",
       "currency": null,
-      "percent": 61
+      "percent": 62
     },
     {
       "id": "gamefound:aretaestudios/ashen-verge",
@@ -2397,11 +2433,11 @@
       "date": "2026-10-27",
       "startDate": "2026-10-27T00:00:00Z",
       "endDate": "2026-11-24T23:59:59Z",
-      "backers": 265,
+      "backers": 277,
       "goal": "$7,000",
-      "raised": "$29,186",
+      "raised": "$30,082",
       "currency": null,
-      "percent": 416
+      "percent": 429
     },
     {
       "id": "kickstarter:blackfiskforlag/flowers-withered-on-the-stem",
@@ -2415,9 +2451,9 @@
       "date": "2026-10-27",
       "startDate": "2026-10-27T00:00:00Z",
       "endDate": "2026-11-26T23:59:59Z",
-      "backers": 123,
+      "backers": 124,
       "goal": "€6,000",
-      "raised": "€5,197",
+      "raised": "€5,204",
       "currency": null,
       "percent": 86
     },
@@ -2433,11 +2469,11 @@
       "date": "2026-10-27",
       "startDate": "2026-10-27T00:00:00Z",
       "endDate": "2026-11-09T23:59:59Z",
-      "backers": 78,
+      "backers": 79,
       "goal": "MX$4,000",
-      "raised": "MX$23,060",
+      "raised": "MX$23,420",
       "currency": null,
-      "percent": 576
+      "percent": 585
     },
     {
       "id": "kickstarter:1533738522/kraivex-eclipse-warriors",
@@ -2451,11 +2487,11 @@
       "date": "2026-10-27",
       "startDate": "2026-10-27T00:00:00Z",
       "endDate": "2026-11-26T23:59:59Z",
-      "backers": 33,
+      "backers": 34,
       "goal": "€150",
-      "raised": "€581",
+      "raised": "€599",
       "currency": null,
-      "percent": 387
+      "percent": 399
     },
     {
       "id": "kickstarter:nukazombee/lands-of-legacy-egypt",
@@ -2469,11 +2505,11 @@
       "date": "2026-10-27",
       "startDate": "2026-10-27T00:00:00Z",
       "endDate": "2026-11-17T23:59:59Z",
-      "backers": 175,
+      "backers": 176,
       "goal": "$3,000",
-      "raised": "$5,064",
+      "raised": "$5,119",
       "currency": null,
-      "percent": 168
+      "percent": 170
     },
     {
       "id": "kickstarter:radical8games/latitude",
@@ -2487,11 +2523,11 @@
       "date": "2026-10-27",
       "startDate": "2026-10-27T00:00:00Z",
       "endDate": "2026-11-17T23:59:59Z",
-      "backers": 535,
+      "backers": 538,
       "goal": "£4,100",
-      "raised": "£12,484",
+      "raised": "£12,553",
       "currency": null,
-      "percent": 304
+      "percent": 306
     },
     {
       "id": "kickstarter:drawlab/legendary-metal-coins-9",
@@ -2505,11 +2541,11 @@
       "date": "2026-10-27",
       "startDate": "2026-10-27T00:00:00Z",
       "endDate": "2026-11-19T23:59:59Z",
-      "backers": 303,
+      "backers": 308,
       "goal": "€5,000",
-      "raised": "€23,194",
+      "raised": "€23,411",
       "currency": null,
-      "percent": 463
+      "percent": 468
     },
     {
       "id": "kickstarter:nuwaboardgames/lionwake-boardgame",
@@ -2523,11 +2559,11 @@
       "date": "2026-10-27",
       "startDate": "2026-10-27T00:00:00Z",
       "endDate": "2026-11-17T23:59:59Z",
-      "backers": 293,
+      "backers": 298,
       "goal": "$100,000",
-      "raised": "$36,653",
+      "raised": "$37,384",
       "currency": null,
-      "percent": 36
+      "percent": 37
     },
     {
       "id": "kickstarter:notniceninjas/not-nice-ninjas-the-party-card-game-where-honor-is-optional",
@@ -2541,9 +2577,9 @@
       "date": "2026-10-27",
       "startDate": "2026-10-27T00:00:00Z",
       "endDate": "2026-11-27T23:59:59Z",
-      "backers": 71,
+      "backers": 72,
       "goal": "$5,000",
-      "raised": "$5,680",
+      "raised": "$5,700",
       "currency": null,
       "percent": 113
     },
@@ -2559,11 +2595,11 @@
       "date": "2026-10-27",
       "startDate": "2026-10-27T00:00:00Z",
       "endDate": "2026-11-20T23:59:59Z",
-      "backers": 176,
+      "backers": 177,
       "goal": "$1,000",
-      "raised": "$3,806",
+      "raised": "$3,825",
       "currency": null,
-      "percent": 380
+      "percent": 382
     },
     {
       "id": "gamefound:dwarven-forge/perilous-frontiers",
@@ -2577,11 +2613,11 @@
       "date": "2026-10-27",
       "startDate": "2026-10-27T16:00:00Z",
       "endDate": "2026-11-19T00:00:00Z",
-      "backers": 470,
+      "backers": 484,
       "goal": 150000,
-      "raised": 1320138.4,
+      "raised": 1364757.96,
       "currency": "USD",
-      "percent": 880
+      "percent": 910
     },
     {
       "id": "kickstarter:ajcgames/risk-it-all-0",
@@ -2595,11 +2631,11 @@
       "date": "2026-10-27",
       "startDate": "2026-10-27T00:00:00Z",
       "endDate": "2026-11-19T23:59:59Z",
-      "backers": 339,
+      "backers": 346,
       "goal": "$5,000",
-      "raised": "$40,213",
+      "raised": "$41,214",
       "currency": null,
-      "percent": 804
+      "percent": 824
     },
     {
       "id": "kickstarter:madelgirls/roxy-riot",
@@ -2631,11 +2667,11 @@
       "date": "2026-10-27",
       "startDate": "2026-10-27T00:00:00Z",
       "endDate": "2026-11-19T23:59:59Z",
-      "backers": 596,
+      "backers": 612,
       "goal": "$15,000",
-      "raised": "$38,466",
+      "raised": "$39,916",
       "currency": null,
-      "percent": 256
+      "percent": 266
     },
     {
       "id": "kickstarter:warscape/shardstone-city-shattered-streets-printable-folding-ruins",
@@ -2649,11 +2685,11 @@
       "date": "2026-10-27",
       "startDate": "2026-10-27T00:00:00Z",
       "endDate": "2026-11-19T23:59:59Z",
-      "backers": 136,
+      "backers": 140,
       "goal": "£50",
-      "raised": "£3,983",
+      "raised": "£4,193",
       "currency": null,
-      "percent": 7966
+      "percent": 8386
     },
     {
       "id": "kickstarter:matthewjhanson/sneaky-book-of-monsters",
@@ -2667,11 +2703,11 @@
       "date": "2026-10-27",
       "startDate": "2026-10-27T00:00:00Z",
       "endDate": "2026-11-19T23:59:59Z",
-      "backers": 45,
+      "backers": 47,
       "goal": "$1,000",
-      "raised": "$1,547",
+      "raised": "$1,587",
       "currency": null,
-      "percent": 154
+      "percent": 158
     },
     {
       "id": "gamefound:ludic-dragon-games/space-universalis",
@@ -2685,11 +2721,11 @@
       "date": "2026-10-27",
       "startDate": "2026-10-27T16:00:00Z",
       "endDate": "2026-11-19T22:00:00Z",
-      "backers": 1230,
+      "backers": 1242,
       "goal": 45000,
-      "raised": 179498.18,
+      "raised": 181064.67,
       "currency": "EUR",
-      "percent": 399
+      "percent": 402
     },
     {
       "id": "gamefound:geeknson-team/The-Bristol-Special-Edition",
@@ -2705,9 +2741,9 @@
       "endDate": "2026-11-10T15:00:00Z",
       "backers": 36,
       "goal": 15000,
-      "raised": 89718.14,
+      "raised": 92773.34,
       "currency": "GBP",
-      "percent": 598
+      "percent": 618
     },
     {
       "id": "kickstarter:241421756/the-devils-naughty-secrets",
@@ -2721,11 +2757,11 @@
       "date": "2026-10-27",
       "startDate": "2026-10-27T00:00:00Z",
       "endDate": "2026-11-12T23:59:59Z",
-      "backers": 119,
+      "backers": 122,
       "goal": "$100",
-      "raised": "$3,639",
+      "raised": "$3,801",
       "currency": null,
-      "percent": 3639
+      "percent": 3801
     },
     {
       "id": "kickstarter:1188034713/the-dire-truck-stop-an-xcrawl-classics-zine",
@@ -2739,11 +2775,11 @@
       "date": "2026-10-27",
       "startDate": "2026-10-27T00:00:00Z",
       "endDate": "2026-11-26T23:59:59Z",
-      "backers": 60,
+      "backers": 62,
       "goal": "$500",
-      "raised": "$1,139",
+      "raised": "$1,160",
       "currency": null,
-      "percent": 227
+      "percent": 231
     },
     {
       "id": "kickstarter:pewpewbountyhunters/the-dirgecall-drift",
@@ -2757,11 +2793,11 @@
       "date": "2026-10-27",
       "startDate": "2026-10-27T00:00:00Z",
       "endDate": "2026-11-26T23:59:59Z",
-      "backers": 42,
+      "backers": 43,
       "goal": "$350",
-      "raised": "$604",
+      "raised": "$616",
       "currency": null,
-      "percent": 172
+      "percent": 176
     },
     {
       "id": "kickstarter:3dhexes/the-eclipsed-sanctuaries-storytelling-3d-printable-scenery",
@@ -2775,11 +2811,11 @@
       "date": "2026-10-27",
       "startDate": "2026-10-27T00:00:00Z",
       "endDate": "2026-11-10T23:59:59Z",
-      "backers": 103,
+      "backers": 105,
       "goal": "€500",
-      "raised": "€3,999",
+      "raised": "€4,063",
       "currency": null,
-      "percent": 799
+      "percent": 812
     },
     {
       "id": "kickstarter:allenmorrisart/fantasy-art-playmat-collection",
@@ -2793,11 +2829,11 @@
       "date": "2026-10-27",
       "startDate": "2026-10-27T00:00:00Z",
       "endDate": "2026-11-17T23:59:59Z",
-      "backers": 50,
+      "backers": 52,
       "goal": "$1,000",
-      "raised": "$4,560",
+      "raised": "$4,640",
       "currency": null,
-      "percent": 455
+      "percent": 463
     },
     {
       "id": "kickstarter:boardgametables/through-the-mountains-through-the-desert-deluxe-more",
@@ -2811,11 +2847,11 @@
       "date": "2026-10-27",
       "startDate": "2026-10-27T00:00:00Z",
       "endDate": "2026-11-12T23:59:59Z",
-      "backers": 2376,
+      "backers": 2567,
       "goal": "$10,000",
-      "raised": "$315,115",
+      "raised": "$333,961",
       "currency": null,
-      "percent": 3151
+      "percent": 3339
     },
     {
       "id": "gamefound:chip-theory-games/too-little-time",
@@ -2829,11 +2865,11 @@
       "date": "2026-10-27",
       "startDate": "2026-10-27T15:00:00Z",
       "endDate": "2026-11-13T22:00:00Z",
-      "backers": 4773,
+      "backers": 4830,
       "goal": 100000,
-      "raised": 1650574.21,
+      "raised": 1669581.67,
       "currency": "USD",
-      "percent": 1651
+      "percent": 1670
     },
     {
       "id": "kickstarter:jollylark/vexed-village-volume-two",
@@ -2865,11 +2901,11 @@
       "date": "2026-10-27",
       "startDate": "2026-10-27T00:00:00Z",
       "endDate": "2026-11-26T23:59:59Z",
-      "backers": 436,
+      "backers": 460,
       "goal": "$7,000",
-      "raised": "$22,736",
+      "raised": "$23,917",
       "currency": null,
-      "percent": 324
+      "percent": 341
     },
     {
       "id": "kickstarter:woodmastergaming/woodmaster-smart-system-portable-rpg-gaming-station",
@@ -2885,9 +2921,9 @@
       "endDate": "2026-11-25T23:59:59Z",
       "backers": 55,
       "goal": "€2,230",
-      "raised": "€5,242",
+      "raised": "€5,073",
       "currency": null,
-      "percent": 235
+      "percent": 227
     },
     {
       "id": "gamefound:other-selves/against-the-darkmaster-los-secretos-del-trono-dorado",
@@ -2901,29 +2937,11 @@
       "date": "2026-10-26",
       "startDate": "2026-10-26T08:00:00Z",
       "endDate": "2026-11-08T22:59:00Z",
-      "backers": 122,
+      "backers": 127,
       "goal": 5000,
-      "raised": 6012.24,
+      "raised": 6185.92,
       "currency": "EUR",
-      "percent": 120
-    },
-    {
-      "id": "kickstarter:moonlit-tavern/darker-times-fallen-knights-a-dnd-5e-zine",
-      "source": "kickstarter",
-      "title": "DARKER TIMES: Fallen Knights - A DnD 5e Zine",
-      "subtitle": null,
-      "publisher": "moonlit-tavern",
-      "blurb": "A zine for those who like their adventures more dangerous and fun (TTRPG | Fantasy | OSR)",
-      "thumb": "https://i.kickstarter.com/assets/055/663/292/fada824b0be3de7a3242f40031b43651_original.jpg?anim=false&fit=cover&gravity=auto&height=90&origin=ugc&q=92&v=1793033227&width=160&sig=BrzSPTtBhJeFeHRYS8glTRUvHTfJ7C20A60Rw2k3DMA%3D",
-      "url": "https://www.kickstarter.com/projects/moonlit-tavern/darker-times-fallen-knights-a-dnd-5e-zine",
-      "date": "2026-10-26",
-      "startDate": "2026-10-26T00:00:00Z",
-      "endDate": "2026-11-06T23:59:59Z",
-      "backers": 66,
-      "goal": "£65",
-      "raised": "£700",
-      "currency": null,
-      "percent": 1076
+      "percent": 124
     },
     {
       "id": "kickstarter:feralthebestiary/feral-rpg",
@@ -2937,9 +2955,9 @@
       "date": "2026-10-26",
       "startDate": "2026-10-26T00:00:00Z",
       "endDate": "2026-11-25T23:59:59Z",
-      "backers": 106,
+      "backers": 107,
       "goal": "$10,000",
-      "raised": "$11,427",
+      "raised": "$11,467",
       "currency": null,
       "percent": 114
     },
@@ -2955,11 +2973,11 @@
       "date": "2026-10-26",
       "startDate": "2026-10-26T00:00:00Z",
       "endDate": "2026-11-17T23:59:59Z",
-      "backers": 3319,
+      "backers": 3508,
       "goal": "£25,000",
-      "raised": "£125,692",
+      "raised": "£132,752",
       "currency": null,
-      "percent": 502
+      "percent": 531
     },
     {
       "id": "gamefound:epic-duck-studios/project-waffle-iron",
@@ -2973,11 +2991,11 @@
       "date": "2026-10-26",
       "startDate": "2026-10-26T16:00:00Z",
       "endDate": "2026-11-10T17:00:00Z",
-      "backers": 40,
+      "backers": 42,
       "goal": 800,
-      "raised": 1736.75,
+      "raised": 1806.75,
       "currency": "CAD",
-      "percent": 217
+      "percent": 226
     },
     {
       "id": "kickstarter:arcaminis/shinobi-clan-feudal-japan-ninja-3d-printable-miniatures",
@@ -2991,11 +3009,11 @@
       "date": "2026-10-26",
       "startDate": "2026-10-26T00:00:00Z",
       "endDate": "2026-11-10T23:59:59Z",
-      "backers": 74,
+      "backers": 78,
       "goal": "€100",
-      "raised": "€2,552",
+      "raised": "€2,668",
       "currency": null,
-      "percent": 2552
+      "percent": 2668
     },
     {
       "id": "gamefound:sebocki89/die-wachter-der-elemente",
@@ -3047,9 +3065,9 @@
       "endDate": "2026-11-12T23:59:59Z",
       "backers": 50,
       "goal": "€100",
-      "raised": "€3,079",
+      "raised": "€3,020",
       "currency": null,
-      "percent": 3079
+      "percent": 3020
     },
     {
       "id": "kickstarter:1030064473/3500-miniatures-vol-7-15-worlds-for-print-digital-stl",
@@ -3063,29 +3081,11 @@
       "date": "2026-10-23",
       "startDate": "2026-10-23T00:00:00Z",
       "endDate": "2026-11-22T23:59:59Z",
-      "backers": 82,
+      "backers": 84,
       "goal": "$500",
-      "raised": "$17,805",
+      "raised": "$18,360",
       "currency": null,
-      "percent": 3561
-    },
-    {
-      "id": "gamefound:bluemist0305/dragons-den-playing-card",
-      "source": "gamefound",
-      "title": "Dragons Den Playing Card",
-      "subtitle": null,
-      "publisher": "bluemist0305",
-      "blurb": "Faced with an apocalyptic torrent of dragon energy, mortal blacksmith Chen stands alone as the sole conductor. To forge the legendary blades, he must channel his entire life force, unyielding willpower.",
-      "thumb": "https://imgcdn.gamefound.com/projectimage/projects/13396/e6d33e8d-af82-407a-b10d-6f2842598eff.jpeg",
-      "url": "https://gamefound.com/projects/bluemist0305/dragons-den-playing-card",
-      "date": "2026-10-23",
-      "startDate": "2026-10-23T12:28:00Z",
-      "endDate": "2026-11-07T11:28:00Z",
-      "backers": 0,
-      "goal": 3000,
-      "raised": 0,
-      "currency": "HKD",
-      "percent": 0
+      "percent": 3672
     },
     {
       "id": "gamefound:weirddadgames/heroes-of-havokk-card-game",
@@ -3153,11 +3153,11 @@
       "date": "2026-10-23",
       "startDate": "2026-10-23T00:00:00Z",
       "endDate": "2026-11-21T23:59:59Z",
-      "backers": 77,
+      "backers": 82,
       "goal": "$1,500",
-      "raised": "$5,121",
+      "raised": "$5,316",
       "currency": null,
-      "percent": 341
+      "percent": 354
     },
     {
       "id": "kickstarter:pandesmos/echoes-of-mnareth",
@@ -3171,11 +3171,11 @@
       "date": "2026-10-22",
       "startDate": "2026-10-22T00:00:00Z",
       "endDate": "2026-11-21T23:59:59Z",
-      "backers": 243,
+      "backers": 245,
       "goal": "$17,000",
-      "raised": "$11,819",
+      "raised": "$11,954",
       "currency": null,
-      "percent": 69
+      "percent": 70
     },
     {
       "id": "kickstarter:esper-games/jp-art-series-vol1",
@@ -3189,11 +3189,11 @@
       "date": "2026-10-22",
       "startDate": "2026-10-22T00:00:00Z",
       "endDate": "2026-12-06T23:59:59Z",
-      "backers": 186,
+      "backers": 188,
       "goal": "¥650,000",
-      "raised": "¥1,268,801",
+      "raised": "¥1,289,701",
       "currency": null,
-      "percent": 195
+      "percent": 198
     },
     {
       "id": "gamefound:pick-n-roll-games-lab-srl/panopticon",
@@ -3209,7 +3209,7 @@
       "endDate": "2026-11-22T17:30:00Z",
       "backers": 405,
       "goal": 8000,
-      "raised": 40832.74,
+      "raised": 40812.28,
       "currency": "EUR",
       "percent": 510
     },
@@ -3225,11 +3225,11 @@
       "date": "2026-10-22",
       "startDate": "2026-10-22T00:00:00Z",
       "endDate": "2026-11-15T23:59:59Z",
-      "backers": 216,
+      "backers": 217,
       "goal": "$1,000",
-      "raised": "$2,714",
+      "raised": "$2,738",
       "currency": null,
-      "percent": 271
+      "percent": 273
     },
     {
       "id": "gamefound:sugaar/somnonautas",
@@ -3243,11 +3243,11 @@
       "date": "2026-10-22",
       "startDate": "2026-10-22T08:00:00Z",
       "endDate": "2026-11-30T19:00:00Z",
-      "backers": 47,
+      "backers": 51,
       "goal": 3500,
-      "raised": 4571.9,
+      "raised": 4923.7,
       "currency": "EUR",
-      "percent": 131
+      "percent": 141
     },
     {
       "id": "kickstarter:fantasy3dream/the-damned-dark-fantasy-cultist-warband-3d-printable-stl",
@@ -3261,29 +3261,11 @@
       "date": "2026-10-22",
       "startDate": "2026-10-22T00:00:00Z",
       "endDate": "2026-11-10T23:59:59Z",
-      "backers": 68,
+      "backers": 67,
       "goal": "£66",
-      "raised": "£1,619",
+      "raised": "£1,602",
       "currency": null,
-      "percent": 2453
-    },
-    {
-      "id": "kickstarter:avatars-of-war/the-ogre-collection-by-avatars-of-war-0",
-      "source": "kickstarter",
-      "title": "THE OGRE COLLECTION BY AVATARS OF WAR",
-      "subtitle": null,
-      "publisher": "avatars-of-war",
-      "blurb": "3D Printable Ogre Miniatures for Fantasy Tabletop Games and RPGs.",
-      "thumb": "https://i.kickstarter.com/assets/055/612/566/0e4b040f42531ce78a2e4a551c4260a7_original.jpg?anim=false&fit=cover&gravity=auto&height=90&origin=ugc&q=92&v=1792654840&width=160&sig=msae2TM4%2BlC8qDLoW2v0XYn%2BewqA3YA6yEP1clm84oU%3D",
-      "url": "https://www.kickstarter.com/projects/avatars-of-war/the-ogre-collection-by-avatars-of-war-0",
-      "date": "2026-10-22",
-      "startDate": "2026-10-22T00:00:00Z",
-      "endDate": "2026-11-06T23:59:59Z",
-      "backers": 53,
-      "goal": "€100",
-      "raised": "€1,472",
-      "currency": null,
-      "percent": 1472
+      "percent": 2427
     },
     {
       "id": "kickstarter:evilpigeongames/the-wretched-blade",
@@ -3315,11 +3297,11 @@
       "date": "2026-10-22",
       "startDate": "2026-10-22T00:00:00Z",
       "endDate": "2026-12-21T23:59:59Z",
-      "backers": 412,
+      "backers": 417,
       "goal": "$666",
-      "raised": "$23,428",
+      "raised": "$23,877",
       "currency": null,
-      "percent": 3517
+      "percent": 3585
     },
     {
       "id": "kickstarter:mattwhite-wargames/until-the-bitter-end-game-3",
@@ -3333,11 +3315,11 @@
       "date": "2026-10-22",
       "startDate": "2026-10-22T00:00:00Z",
       "endDate": "2026-11-17T23:59:59Z",
-      "backers": 64,
+      "backers": 65,
       "goal": "£130",
-      "raised": "£1,219",
+      "raised": "£1,278",
       "currency": null,
-      "percent": 937
+      "percent": 983
     },
     {
       "id": "retail:466594",
@@ -3376,12 +3358,12 @@
       "url": "https://gamefound.com/projects/asmodee/arkham-horror",
       "date": "2026-10-21",
       "startDate": "2026-10-21T19:00:00Z",
-      "endDate": "2026-11-06T16:02:59.32Z",
-      "backers": 13113,
+      "endDate": "2026-11-07T14:57:02.43Z",
+      "backers": 13441,
       "goal": 300000,
-      "raised": 5429466.49,
+      "raised": 5552972.87,
       "currency": "USD",
-      "percent": 1810
+      "percent": 1851
     },
     {
       "id": "retail:476751",
@@ -3473,11 +3455,11 @@
       "date": "2026-10-21",
       "startDate": "2026-10-21T00:00:00Z",
       "endDate": "2026-11-20T23:59:59Z",
-      "backers": 272,
+      "backers": 275,
       "goal": "£7,500",
-      "raised": "£11,038",
+      "raised": "£11,143",
       "currency": null,
-      "percent": 147
+      "percent": 148
     },
     {
       "id": "retail:465097",
@@ -3595,11 +3577,11 @@
       "date": "2026-10-21",
       "startDate": "2026-10-21T00:00:00Z",
       "endDate": "2026-11-20T23:59:59Z",
-      "backers": 481,
+      "backers": 492,
       "goal": "€10,000",
-      "raised": "€27,263",
+      "raised": "€27,853",
       "currency": null,
-      "percent": 272
+      "percent": 278
     },
     {
       "id": "kickstarter:realfakegames/quest-snakes-wanderers",
@@ -3613,11 +3595,11 @@
       "date": "2026-10-21",
       "startDate": "2026-10-21T00:00:00Z",
       "endDate": "2026-11-20T23:59:59Z",
-      "backers": 708,
+      "backers": 718,
       "goal": "$10,000",
-      "raised": "$93,828",
+      "raised": "$96,551",
       "currency": null,
-      "percent": 938
+      "percent": 965
     },
     {
       "id": "retail:451148",
@@ -3657,11 +3639,11 @@
       "date": "2026-10-21",
       "startDate": "2026-10-21T15:00:00Z",
       "endDate": "2026-11-11T20:00:00Z",
-      "backers": 265,
+      "backers": 273,
       "goal": 11000,
-      "raised": 13239.98,
+      "raised": 13605.38,
       "currency": "EUR",
-      "percent": 120
+      "percent": 124
     },
     {
       "id": "retail:334152",
@@ -3779,11 +3761,11 @@
       "date": "2026-10-21",
       "startDate": "2026-10-21T00:00:00Z",
       "endDate": "2026-11-10T23:59:59Z",
-      "backers": 34,
+      "backers": 35,
       "goal": "€200",
-      "raised": "€747",
+      "raised": "€772",
       "currency": null,
-      "percent": 373
+      "percent": 386
     },
     {
       "id": "retail:463080",
@@ -3862,11 +3844,11 @@
       "date": "2026-10-20",
       "startDate": "2026-10-20T00:00:00Z",
       "endDate": "2026-11-19T23:59:59Z",
-      "backers": 167,
+      "backers": 172,
       "goal": "$1,500",
-      "raised": "$5,549",
+      "raised": "$5,653",
       "currency": null,
-      "percent": 369
+      "percent": 376
     },
     {
       "id": "kickstarter:18korea/18korea-big-box",
@@ -3880,11 +3862,11 @@
       "date": "2026-10-20",
       "startDate": "2026-10-20T00:00:00Z",
       "endDate": "2026-11-24T23:59:59Z",
-      "backers": 271,
+      "backers": 278,
       "goal": "$50,000",
-      "raised": "$34,641",
+      "raised": "$35,474",
       "currency": null,
-      "percent": 69
+      "percent": 70
     },
     {
       "id": "kickstarter:aeviternal/aeviternal",
@@ -3916,11 +3898,11 @@
       "date": "2026-10-20",
       "startDate": "2026-10-20T00:00:00Z",
       "endDate": "2026-11-13T23:59:59Z",
-      "backers": 1225,
+      "backers": 1272,
       "goal": "€12,000",
-      "raised": "€106,173",
+      "raised": "€110,182",
       "currency": null,
-      "percent": 884
+      "percent": 918
     },
     {
       "id": "kickstarter:boardnerds/boardnerds-3d-printable-modular-tabletop-accessory-system",
@@ -3934,11 +3916,11 @@
       "date": "2026-10-20",
       "startDate": "2026-10-20T00:00:00Z",
       "endDate": "2026-11-19T23:59:59Z",
-      "backers": 245,
+      "backers": 247,
       "goal": "€1,500",
-      "raised": "€10,404",
+      "raised": "€10,539",
       "currency": null,
-      "percent": 693
+      "percent": 702
     },
     {
       "id": "kickstarter:ceradice/ceradice",
@@ -3952,11 +3934,11 @@
       "date": "2026-10-20",
       "startDate": "2026-10-20T00:00:00Z",
       "endDate": "2026-11-19T23:59:59Z",
-      "backers": 452,
+      "backers": 460,
       "goal": "HK$100,000",
-      "raised": "HK$520,533",
+      "raised": "HK$527,090",
       "currency": null,
-      "percent": 520
+      "percent": 527
     },
     {
       "id": "kickstarter:maestromedia/clash-royale-the-grand-arena",
@@ -3970,11 +3952,11 @@
       "date": "2026-10-20",
       "startDate": "2026-10-20T00:00:00Z",
       "endDate": "2026-11-13T23:59:59Z",
-      "backers": 919,
+      "backers": 929,
       "goal": "$25,000",
-      "raised": "$137,460",
+      "raised": "$138,961",
       "currency": null,
-      "percent": 549
+      "percent": 555
     },
     {
       "id": "kickstarter:mugengaming/cosmic-cowboy-1",
@@ -3988,11 +3970,11 @@
       "date": "2026-10-20",
       "startDate": "2026-10-20T00:00:00Z",
       "endDate": "2026-11-20T23:59:59Z",
-      "backers": 541,
+      "backers": 543,
       "goal": "$7,878",
-      "raised": "$36,115",
+      "raised": "$36,327",
       "currency": null,
-      "percent": 458
+      "percent": 461
     },
     {
       "id": "kickstarter:cubyriagames/cubyria-architects-of-a-lost-city",
@@ -4006,11 +3988,11 @@
       "date": "2026-10-20",
       "startDate": "2026-10-20T00:00:00Z",
       "endDate": "2026-11-12T23:59:59Z",
-      "backers": 1006,
+      "backers": 1047,
       "goal": "£18,000",
-      "raised": "£109,659",
+      "raised": "£115,021",
       "currency": null,
-      "percent": 609
+      "percent": 639
     },
     {
       "id": "kickstarter:mobinet-games/dark-hearts-a-solo-wargame-of-dark-elf-conquest-and-romance",
@@ -4024,11 +4006,11 @@
       "date": "2026-10-20",
       "startDate": "2026-10-20T00:00:00Z",
       "endDate": "2026-12-18T23:59:59Z",
-      "backers": 192,
+      "backers": 194,
       "goal": "€4,000",
-      "raised": "€7,641",
+      "raised": "€7,701",
       "currency": null,
-      "percent": 191
+      "percent": 192
     },
     {
       "id": "kickstarter:heroes-and-hardships/dungeons-deep-and-caverns-old-secret-of-the-dark-waters-handh",
@@ -4042,29 +4024,11 @@
       "date": "2026-10-20",
       "startDate": "2026-10-20T00:00:00Z",
       "endDate": "2026-11-10T23:59:59Z",
-      "backers": 124,
+      "backers": 125,
       "goal": "$1,000",
-      "raised": "$5,817",
+      "raised": "$5,832",
       "currency": null,
-      "percent": 581
-    },
-    {
-      "id": "gamefound:dragori-games/dungeon-of-tanares",
-      "source": "gamefound",
-      "title": "Dungeons of Tanares",
-      "subtitle": null,
-      "publisher": "Dragori Games",
-      "blurb": "Tanares is a narrative dungeon crawler for 1-4 players, where you explore a living world, build a powerful hero, and adapt to unpredictable enemies.",
-      "thumb": "https://imgcdn.gamefound.com/projectimage/projects/11765/d4ae2216-f863-44f7-b227-0e743ec5c03a.jpg",
-      "url": "https://gamefound.com/projects/dragori-games/dungeon-of-tanares",
-      "date": "2026-10-20",
-      "startDate": "2026-10-20T15:00:00Z",
-      "endDate": "2026-11-06T16:01:30.39Z",
-      "backers": 4283,
-      "goal": 50000,
-      "raised": 1758710.83,
-      "currency": "USD",
-      "percent": 3517
+      "percent": 583
     },
     {
       "id": "kickstarter:escapemaster/escape-critters",
@@ -4078,11 +4042,11 @@
       "date": "2026-10-20",
       "startDate": "2026-10-20T00:00:00Z",
       "endDate": "2026-11-18T23:59:59Z",
-      "backers": 186,
+      "backers": 189,
       "goal": "$5,000",
-      "raised": "$9,408",
+      "raised": "$9,583",
       "currency": null,
-      "percent": 188
+      "percent": 191
     },
     {
       "id": "kickstarter:9d10games/essential-territories-gorgeous-lands-for-your-favorite-tcg",
@@ -4096,11 +4060,11 @@
       "date": "2026-10-20",
       "startDate": "2026-10-20T00:00:00Z",
       "endDate": "2026-11-11T23:59:59Z",
-      "backers": 223,
+      "backers": 229,
       "goal": "£4,900",
-      "raised": "£13,812",
+      "raised": "£14,137",
       "currency": null,
-      "percent": 281
+      "percent": 288
     },
     {
       "id": "kickstarter:fablefury/magic-and-mayhem",
@@ -4114,11 +4078,11 @@
       "date": "2026-10-20",
       "startDate": "2026-10-20T00:00:00Z",
       "endDate": "2026-11-19T23:59:59Z",
-      "backers": 1319,
+      "backers": 1328,
       "goal": "$10,000",
-      "raised": "$190,978",
+      "raised": "$192,288",
       "currency": null,
-      "percent": 1909
+      "percent": 1922
     },
     {
       "id": "kickstarter:pinkhawkgames/good-kitties-super-chonk",
@@ -4132,29 +4096,11 @@
       "date": "2026-10-20",
       "startDate": "2026-10-20T00:00:00Z",
       "endDate": "2026-11-20T23:59:59Z",
-      "backers": 474,
+      "backers": 481,
       "goal": "$9,600",
-      "raised": "$46,084",
+      "raised": "$46,922",
       "currency": null,
-      "percent": 480
-    },
-    {
-      "id": "gamefound:onepagerules/grimdark-future-jade-claw",
-      "source": "gamefound",
-      "title": "Grimdark Future: Jade & Claw",
-      "subtitle": null,
-      "publisher": "One Page Rules",
-      "blurb": "One Page Rules: Grimdark Future is back! Add 2 new all-plastic factions to your collection. After the success our our Broken Truth campaign, which fulfilled in 6 months, we present to you the Eternal Dynasty and Alien Hives for more fights in the Sirius Sector.",
-      "thumb": "https://imgcdn.gamefound.com/projectimage/projects/11645/74c54261-08dc-436b-85d8-bbda1944dd46.jpg",
-      "url": "https://gamefound.com/projects/onepagerules/grimdark-future-jade-claw",
-      "date": "2026-10-20",
-      "startDate": "2026-10-20T13:00:00Z",
-      "endDate": "2026-11-06T22:00:00Z",
-      "backers": 861,
-      "goal": 50000,
-      "raised": 278432.15,
-      "currency": "USD",
-      "percent": 557
+      "percent": 488
     },
     {
       "id": "kickstarter:pleiadesinteractive/humans-cant-drive",
@@ -4168,11 +4114,11 @@
       "date": "2026-10-20",
       "startDate": "2026-10-20T00:00:00Z",
       "endDate": "2026-11-19T23:59:59Z",
-      "backers": 927,
+      "backers": 941,
       "goal": "$4,040",
-      "raised": "$74,034",
+      "raised": "$75,074",
       "currency": null,
-      "percent": 1832
+      "percent": 1858
     },
     {
       "id": "kickstarter:fridastudios/luxor-queens",
@@ -4204,11 +4150,11 @@
       "date": "2026-10-20",
       "startDate": "2026-10-20T00:00:00Z",
       "endDate": "2026-11-12T23:59:59Z",
-      "backers": 3239,
+      "backers": 3277,
       "goal": "$9,000",
-      "raised": "$468,202",
+      "raised": "$471,933",
       "currency": null,
-      "percent": 5202
+      "percent": 5243
     },
     {
       "id": "kickstarter:earthmoonmagick/muse-frequency-tarot",
@@ -4222,11 +4168,11 @@
       "date": "2026-10-20",
       "startDate": "2026-10-20T00:00:00Z",
       "endDate": "2026-11-19T23:59:59Z",
-      "backers": 266,
+      "backers": 270,
       "goal": "$7,000",
-      "raised": "$25,310",
+      "raised": "$25,667",
       "currency": null,
-      "percent": 361
+      "percent": 366
     },
     {
       "id": "kickstarter:pixeldemon/pixel-demons-nightmare",
@@ -4240,11 +4186,11 @@
       "date": "2026-10-20",
       "startDate": "2026-10-20T00:00:00Z",
       "endDate": "2026-11-19T23:59:59Z",
-      "backers": 264,
+      "backers": 272,
       "goal": "$6,666",
-      "raised": "$24,807",
+      "raised": "$25,890",
       "currency": null,
-      "percent": 372
+      "percent": 388
     },
     {
       "id": "gamefound:unstable-games/ordinary-magic",
@@ -4258,11 +4204,11 @@
       "date": "2026-10-20",
       "startDate": "2026-10-20T17:00:00Z",
       "endDate": "2026-11-10T18:00:00Z",
-      "backers": 4530,
+      "backers": 4644,
       "goal": 30000,
-      "raised": 643047.35,
+      "raised": 658458.62,
       "currency": "USD",
-      "percent": 2143
+      "percent": 2195
     },
     {
       "id": "kickstarter:kessent/origins-of-light-a-final-fantasy-board-game",
@@ -4276,11 +4222,11 @@
       "date": "2026-10-20",
       "startDate": "2026-10-20T00:00:00Z",
       "endDate": "2026-11-18T23:59:59Z",
-      "backers": 3772,
+      "backers": 3846,
       "goal": "$10,000",
-      "raised": "$1,168,655",
+      "raised": "$1,190,391",
       "currency": null,
-      "percent": 11686
+      "percent": 11903
     },
     {
       "id": "kickstarter:dicedungeons/files-from-the-fringe",
@@ -4294,11 +4240,11 @@
       "date": "2026-10-20",
       "startDate": "2026-10-20T00:00:00Z",
       "endDate": "2026-11-19T23:59:59Z",
-      "backers": 251,
+      "backers": 252,
       "goal": "$15,000",
-      "raised": "$16,357",
+      "raised": "$16,526",
       "currency": null,
-      "percent": 109
+      "percent": 110
     },
     {
       "id": "kickstarter:rawrgames/roll-breakers",
@@ -4312,11 +4258,11 @@
       "date": "2026-10-20",
       "startDate": "2026-10-20T00:00:00Z",
       "endDate": "2026-11-17T23:59:59Z",
-      "backers": 390,
+      "backers": 406,
       "goal": "MX$4,000",
-      "raised": "MX$108,902",
+      "raised": "MX$113,972",
       "currency": null,
-      "percent": 2722
+      "percent": 2849
     },
     {
       "id": "kickstarter:justinsirois/solo-combat-tower-and-seducers-song-for-sickest-witch",
@@ -4330,11 +4276,11 @@
       "date": "2026-10-20",
       "startDate": "2026-10-20T00:00:00Z",
       "endDate": "2026-11-19T23:59:59Z",
-      "backers": 81,
+      "backers": 82,
       "goal": "$1,000",
-      "raised": "$4,328",
+      "raised": "$4,377",
       "currency": null,
-      "percent": 432
+      "percent": 437
     },
     {
       "id": "kickstarter:titanboardgames/soccer-manager-print-and-play-boardgame",
@@ -4366,29 +4312,11 @@
       "date": "2026-10-20",
       "startDate": "2026-10-20T00:00:00Z",
       "endDate": "2026-11-19T23:59:59Z",
-      "backers": 859,
+      "backers": 868,
       "goal": "$10,000",
-      "raised": "$84,489",
+      "raised": "$85,613",
       "currency": null,
-      "percent": 844
-    },
-    {
-      "id": "gamefound:gabe-barrett/spooky-triple-feature-solo-game-of-the-month",
-      "source": "gamefound",
-      "title": "Spooky Triple Feature [Solo Game of the Month]",
-      "subtitle": null,
-      "publisher": "Gabe-Barrett",
-      "blurb": "A trio of spooky solo games",
-      "thumb": "https://imgcdn.gamefound.com/projectimage/projects/13312/f27b0e03-61e5-4edc-bbf7-4a4e60125b80.png",
-      "url": "https://gamefound.com/projects/gabe-barrett/spooky-triple-feature-solo-game-of-the-month",
-      "date": "2026-10-20",
-      "startDate": "2026-10-20T15:00:00Z",
-      "endDate": "2026-11-07T05:00:00Z",
-      "backers": 983,
-      "goal": 5000,
-      "raised": 48812.79,
-      "currency": "USD",
-      "percent": 976
+      "percent": 856
     },
     {
       "id": "kickstarter:anvilrage/starball-miniatures-round-1",
@@ -4402,11 +4330,11 @@
       "date": "2026-10-20",
       "startDate": "2026-10-20T00:00:00Z",
       "endDate": "2026-11-10T23:59:59Z",
-      "backers": 143,
+      "backers": 142,
       "goal": "€1,000",
-      "raised": "€6,115",
+      "raised": "€6,080",
       "currency": null,
-      "percent": 611
+      "percent": 608
     },
     {
       "id": "kickstarter:nerdgear/stoneforge-tcg-backpack-by-nerd-gear",
@@ -4420,11 +4348,11 @@
       "date": "2026-10-20",
       "startDate": "2026-10-20T00:00:00Z",
       "endDate": "2026-11-19T23:59:59Z",
-      "backers": 1536,
+      "backers": 1564,
       "goal": "$25,000",
-      "raised": "$255,139",
+      "raised": "$260,351",
       "currency": null,
-      "percent": 1020
+      "percent": 1041
     },
     {
       "id": "kickstarter:bestfrenemies/tariff",
@@ -4438,11 +4366,11 @@
       "date": "2026-10-20",
       "startDate": "2026-10-20T00:00:00Z",
       "endDate": "2026-11-19T23:59:59Z",
-      "backers": 233,
+      "backers": 234,
       "goal": "$3,800",
-      "raised": "$8,761",
+      "raised": "$8,811",
       "currency": null,
-      "percent": 230
+      "percent": 231
     },
     {
       "id": "kickstarter:parasite/the-cult-of-red-fangs",
@@ -4456,11 +4384,11 @@
       "date": "2026-10-20",
       "startDate": "2026-10-20T00:00:00Z",
       "endDate": "2026-11-10T23:59:59Z",
-      "backers": 44,
+      "backers": 43,
       "goal": "€800",
-      "raised": "€2,003",
+      "raised": "€1,725",
       "currency": null,
-      "percent": 250
+      "percent": 215
     },
     {
       "id": "gamefound:sound-of-drums-gmbh/the-great-escape",
@@ -4474,11 +4402,11 @@
       "date": "2026-10-20",
       "startDate": "2026-10-20T16:00:00Z",
       "endDate": "2026-11-09T23:00:00Z",
-      "backers": 631,
+      "backers": 637,
       "goal": 12500,
-      "raised": 36594.08,
+      "raised": 37062.67,
       "currency": "EUR",
-      "percent": 293
+      "percent": 297
     },
     {
       "id": "kickstarter:adamebell/the-locked-room-murder-mystery-game",
@@ -4528,11 +4456,11 @@
       "date": "2026-10-20",
       "startDate": "2026-10-20T00:00:00Z",
       "endDate": "2026-11-19T23:59:59Z",
-      "backers": 2490,
+      "backers": 2516,
       "goal": "$20,000",
-      "raised": "$472,496",
+      "raised": "$477,363",
       "currency": null,
-      "percent": 2362
+      "percent": 2386
     },
     {
       "id": "kickstarter:studiofarhorizons/the-why-files-declassified-board-game",
@@ -4546,11 +4474,11 @@
       "date": "2026-10-20",
       "startDate": "2026-10-20T00:00:00Z",
       "endDate": "2026-11-20T23:59:59Z",
-      "backers": 628,
+      "backers": 634,
       "goal": "$50,000",
-      "raised": "$103,831",
+      "raised": "$104,482",
       "currency": null,
-      "percent": 207
+      "percent": 208
     },
     {
       "id": "kickstarter:miniwargaming/wasteland-sector-modular-3d-printable-sci-fi-terrain",
@@ -4564,11 +4492,11 @@
       "date": "2026-10-20",
       "startDate": "2026-10-20T00:00:00Z",
       "endDate": "2026-11-10T23:59:59Z",
-      "backers": 97,
+      "backers": 99,
       "goal": "$2,500",
-      "raised": "$15,311",
+      "raised": "$15,395",
       "currency": null,
-      "percent": 612
+      "percent": 615
     },
     {
       "id": "kickstarter:necromancergames/zeb-cooks-the-afterlife-of-king-neiren",
@@ -4582,11 +4510,11 @@
       "date": "2026-10-20",
       "startDate": "2026-10-20T00:00:00Z",
       "endDate": "2026-11-19T23:59:59Z",
-      "backers": 214,
+      "backers": 218,
       "goal": "$697",
-      "raised": "$8,455",
+      "raised": "$8,563",
       "currency": null,
-      "percent": 1213
+      "percent": 1228
     },
     {
       "id": "gamefound:norman-lenda-game-arts/drama-ccg",
@@ -4618,29 +4546,11 @@
       "date": "2026-10-17",
       "startDate": "2026-10-17T16:00:00Z",
       "endDate": "2026-11-17T17:00:00Z",
-      "backers": 88,
+      "backers": 89,
       "goal": 10000,
-      "raised": 6608.67,
+      "raised": 6723.67,
       "currency": "USD",
-      "percent": 66
-    },
-    {
-      "id": "gamefound:gametroll/gry-bez-pradu--czasopismo-o-planszowkach",
-      "source": "gamefound",
-      "title": "Gry Bez Prądu | Czasopismo o planszówkach, bitewniakach i grach RPG",
-      "subtitle": null,
-      "publisher": "GameTroll",
-      "blurb": "GRY BEZ PRĄDU to nowe, papierowe czasopismo o planszówkach, bitewniakach i RPG! Trzy numery w 2027 roku, pełne artykułów, wywiadów, historii gier i publicystyki. Pierwszy numer poświęcamy fantasy!",
-      "thumb": "https://imgcdn.gamefound.com/projectimage/projects/6438/fda09e44-c79e-4f43-ac75-c6c9c817d34f.png",
-      "url": "https://gamefound.com/projects/gametroll/gry-bez-pradu--czasopismo-o-planszowkach",
-      "date": "2026-10-17",
-      "startDate": "2026-10-17T08:00:00Z",
-      "endDate": "2026-11-07T10:00:00Z",
-      "backers": 1410,
-      "goal": 76000,
-      "raised": 229415.58,
-      "currency": "PLN",
-      "percent": 302
+      "percent": 67
     },
     {
       "id": "gamefound:agoro-games/agoro-road-and-agoro-camp",
@@ -4672,11 +4582,11 @@
       "date": "2026-10-16",
       "startDate": "2026-10-16T00:00:00Z",
       "endDate": "2026-11-15T23:59:59Z",
-      "backers": 239,
+      "backers": 242,
       "goal": "$1,000",
-      "raised": "$14,600",
+      "raised": "$14,986",
       "currency": null,
-      "percent": 1460
+      "percent": 1498
     },
     {
       "id": "kickstarter:ryanisdaydreaming/dinner-for-goblins",
@@ -4690,11 +4600,11 @@
       "date": "2026-10-16",
       "startDate": "2026-10-16T00:00:00Z",
       "endDate": "2026-11-15T23:59:59Z",
-      "backers": 117,
+      "backers": 126,
       "goal": "$6,500",
-      "raised": "$9,497",
+      "raised": "$10,002",
       "currency": null,
-      "percent": 146
+      "percent": 153
     },
     {
       "id": "gamefound:tactical-workshop/1806-auerstadt",
@@ -4708,29 +4618,11 @@
       "date": "2026-10-15",
       "startDate": "2026-10-15T07:10:00Z",
       "endDate": "2026-11-30T05:00:00Z",
-      "backers": 151,
+      "backers": 150,
       "goal": 6000,
-      "raised": 8897.97,
+      "raised": 8837.48,
       "currency": "USD",
-      "percent": 148
-    },
-    {
-      "id": "kickstarter:eaglegryphon/empires-age-of-discovery",
-      "source": "kickstarter",
-      "title": "Empires: Age of Discovery & Struggle of Empires Deluxe",
-      "subtitle": null,
-      "publisher": "eaglegryphon",
-      "blurb": "The return of the classic Empires: Age of Discovery with new art & components. A long-awaited reprint of Struggle of Empires Deluxe.",
-      "thumb": "https://i.kickstarter.com/assets/055/343/774/4763f5d0bb38d496d3f6147194131501_original.png?anim=false&fit=cover&gravity=auto&height=90&origin=ugc&q=92&v=1790859754&width=160&sig=jAAhue8Y5epkhrDi0ebrfnY6jKqoaR%2Bf5cH%2BY93Jd9E%3D",
-      "url": "https://www.kickstarter.com/projects/eaglegryphon/empires-age-of-discovery",
-      "date": "2026-10-15",
-      "startDate": "2026-10-15T00:00:00Z",
-      "endDate": "2026-11-06T23:59:59Z",
-      "backers": 414,
-      "goal": "$20,000",
-      "raised": "$55,557",
-      "currency": null,
-      "percent": 277
+      "percent": 147
     },
     {
       "id": "kickstarter:disometric/gattara-the-cat-magnet",
@@ -4762,11 +4654,11 @@
       "date": "2026-10-15",
       "startDate": "2026-10-15T00:00:00Z",
       "endDate": "2026-11-14T23:59:59Z",
-      "backers": 1476,
+      "backers": 1499,
       "goal": "€39,000",
-      "raised": "€412,632",
+      "raised": "€419,241",
       "currency": null,
-      "percent": 1058
+      "percent": 1074
     },
     {
       "id": "gamefound:rushryazan/nk--siege",
@@ -4798,11 +4690,11 @@
       "date": "2026-10-15",
       "startDate": "2026-10-15T00:00:00Z",
       "endDate": "2026-11-14T23:59:59Z",
-      "backers": 100,
+      "backers": 101,
       "goal": "HK$5,000",
-      "raised": "HK$44,233",
+      "raised": "HK$44,547",
       "currency": null,
-      "percent": 884
+      "percent": 890
     },
     {
       "id": "kickstarter:curiouslynxgames/which-witch",
@@ -4816,11 +4708,11 @@
       "date": "2026-10-15",
       "startDate": "2026-10-15T00:00:00Z",
       "endDate": "2026-11-13T23:59:59Z",
-      "backers": 187,
+      "backers": 190,
       "goal": "£4,000",
-      "raised": "£9,004",
+      "raised": "£9,094",
       "currency": null,
-      "percent": 225
+      "percent": 227
     },
     {
       "id": "retail:469219",
@@ -4956,11 +4848,11 @@
       "date": "2026-10-14",
       "startDate": "2026-10-14T00:00:00Z",
       "endDate": "2026-11-12T23:59:59Z",
-      "backers": 203,
+      "backers": 208,
       "goal": "$8,000",
-      "raised": "$18,929",
+      "raised": "$19,570",
       "currency": null,
-      "percent": 236
+      "percent": 244
     },
     {
       "id": "retail:438031",
@@ -4987,11 +4879,11 @@
       "date": "2026-10-14",
       "startDate": "2026-10-14T00:00:00Z",
       "endDate": "2026-11-13T23:59:59Z",
-      "backers": 86,
+      "backers": 85,
       "goal": "$500",
-      "raised": "$3,359",
+      "raised": "$3,324",
       "currency": null,
-      "percent": 671
+      "percent": 664
     },
     {
       "id": "retail:476057",
@@ -5135,11 +5027,11 @@
       "date": "2026-10-14",
       "startDate": "2026-10-14T00:00:00Z",
       "endDate": "2026-11-13T23:59:59Z",
-      "backers": 343,
+      "backers": 346,
       "goal": "£10,000",
-      "raised": "£11,690",
+      "raised": "£11,788",
       "currency": null,
-      "percent": 116
+      "percent": 117
     },
     {
       "id": "retail:475408",
@@ -5348,11 +5240,11 @@
       "date": "2026-10-14",
       "startDate": "2026-10-14T00:00:00Z",
       "endDate": "2026-11-14T23:59:59Z",
-      "backers": 143,
+      "backers": 147,
       "goal": "£400",
-      "raised": "£5,198",
+      "raised": "£5,349",
       "currency": null,
-      "percent": 1299
+      "percent": 1337
     },
     {
       "id": "gamefound:jason-anarchy/wholesome-adventure",
@@ -5366,9 +5258,9 @@
       "date": "2026-10-14",
       "startDate": "2026-10-14T14:30:00Z",
       "endDate": "2026-11-12T05:00:00Z",
-      "backers": 338,
+      "backers": 339,
       "goal": 12000,
-      "raised": 18073.78,
+      "raised": 18120.77,
       "currency": "USD",
       "percent": 151
     },
@@ -5384,29 +5276,11 @@
       "date": "2026-10-13",
       "startDate": "2026-10-13T00:00:00Z",
       "endDate": "2026-11-12T23:59:59Z",
-      "backers": 1075,
+      "backers": 1089,
       "goal": "€10,000",
-      "raised": "€172,948",
+      "raised": "€175,628",
       "currency": null,
-      "percent": 1729
-    },
-    {
-      "id": "kickstarter:outerburrow/bucket-list-1",
-      "source": "kickstarter",
-      "title": "Bucket List! - Complete Childhood Dreams & Race the Reaper",
-      "subtitle": null,
-      "publisher": "outerburrow",
-      "blurb": "Finish whimsical goals with death on your heels, in this casual strategy game for 1-4 players. Eternal bragging rights are on the line!",
-      "thumb": "https://i.kickstarter.com/assets/055/490/183/378d0946862bb781c1f335a362f97f3b_original.png?anim=false&fit=cover&gravity=auto&height=90&origin=ugc&q=92&v=1791869549&width=160&sig=jAC%2FSfPtn8z7gxVN9zMdp607PM6ST7n82sx%2B7nXGinY%3D",
-      "url": "https://www.kickstarter.com/projects/outerburrow/bucket-list-1",
-      "date": "2026-10-13",
-      "startDate": "2026-10-13T00:00:00Z",
-      "endDate": "2026-11-06T23:59:59Z",
-      "backers": 218,
-      "goal": "$5,000",
-      "raised": "$12,464",
-      "currency": null,
-      "percent": 249
+      "percent": 1756
     },
     {
       "id": "kickstarter:stormynightgames/dracula-1897-with-kickstarter-exclusive",
@@ -5420,11 +5294,11 @@
       "date": "2026-10-13",
       "startDate": "2026-10-13T00:00:00Z",
       "endDate": "2026-11-14T23:59:59Z",
-      "backers": 108,
+      "backers": 109,
       "goal": "$1,000",
-      "raised": "$4,945",
+      "raised": "$4,990",
       "currency": null,
-      "percent": 494
+      "percent": 499
     },
     {
       "id": "kickstarter:keungames/dungeonomics",
@@ -5438,11 +5312,11 @@
       "date": "2026-10-13",
       "startDate": "2026-10-13T00:00:00Z",
       "endDate": "2026-11-12T23:59:59Z",
-      "backers": 1095,
+      "backers": 1105,
       "goal": "$5,000",
-      "raised": "$89,174",
+      "raised": "$90,255",
       "currency": null,
-      "percent": 1783
+      "percent": 1805
     },
     {
       "id": "kickstarter:nickfrancia/eldritch-automata-from-the-ashes",
@@ -5456,11 +5330,11 @@
       "date": "2026-10-13",
       "startDate": "2026-10-13T00:00:00Z",
       "endDate": "2026-11-12T23:59:59Z",
-      "backers": 541,
+      "backers": 546,
       "goal": "$20,000",
-      "raised": "$49,688",
+      "raised": "$50,056",
       "currency": null,
-      "percent": 248
+      "percent": 250
     },
     {
       "id": "kickstarter:saucermenstudios/grid-city-industro-3d-printable-terrain",
@@ -5474,11 +5348,11 @@
       "date": "2026-10-13",
       "startDate": "2026-10-13T00:00:00Z",
       "endDate": "2026-11-12T23:59:59Z",
-      "backers": 327,
+      "backers": 331,
       "goal": "$1,000",
-      "raised": "$37,262",
+      "raised": "$37,699",
       "currency": null,
-      "percent": 3726
+      "percent": 3769
     },
     {
       "id": "kickstarter:meanhyenagames/skeleton-card-game",
@@ -5492,11 +5366,11 @@
       "date": "2026-10-13",
       "startDate": "2026-10-13T00:00:00Z",
       "endDate": "2026-11-12T23:59:59Z",
-      "backers": 236,
+      "backers": 243,
       "goal": "$11,000",
-      "raised": "$13,097",
+      "raised": "$13,342",
       "currency": null,
-      "percent": 119
+      "percent": 121
     },
     {
       "id": "kickstarter:llabdesign/jungle-king",
@@ -5510,11 +5384,11 @@
       "date": "2026-10-13",
       "startDate": "2026-10-13T00:00:00Z",
       "endDate": "2026-11-12T23:59:59Z",
-      "backers": 83,
+      "backers": 86,
       "goal": "HK$12,000",
-      "raised": "HK$69,345",
+      "raised": "HK$70,945",
       "currency": null,
-      "percent": 577
+      "percent": 591
     },
     {
       "id": "kickstarter:goblinstorage/legends-of-the-elder-age",
@@ -5528,11 +5402,11 @@
       "date": "2026-10-13",
       "startDate": "2026-10-13T00:00:00Z",
       "endDate": "2026-12-12T23:59:59Z",
-      "backers": 48,
+      "backers": 51,
       "goal": "€1,000",
-      "raised": "€1,209",
+      "raised": "€1,254",
       "currency": null,
-      "percent": 120
+      "percent": 125
     },
     {
       "id": "kickstarter:shinyrobot/litter-box",
@@ -5546,11 +5420,11 @@
       "date": "2026-10-13",
       "startDate": "2026-10-13T00:00:00Z",
       "endDate": "2026-11-12T23:59:59Z",
-      "backers": 407,
+      "backers": 412,
       "goal": "$3,000",
-      "raised": "$19,825",
+      "raised": "$19,786",
       "currency": null,
-      "percent": 660
+      "percent": 659
     },
     {
       "id": "kickstarter:luridcove/lurid-cove-secrets-and-shame-in-the-sordid-suburbs",
@@ -5564,11 +5438,11 @@
       "date": "2026-10-13",
       "startDate": "2026-10-13T00:00:00Z",
       "endDate": "2026-11-10T23:59:59Z",
-      "backers": 573,
+      "backers": 586,
       "goal": "$6,666",
-      "raised": "$43,380",
+      "raised": "$44,401",
       "currency": null,
-      "percent": 650
+      "percent": 666
     },
     {
       "id": "kickstarter:echoarartstudios/nostalgic-war-miniatures-stl-files-for-3d",
@@ -5582,11 +5456,11 @@
       "date": "2026-10-13",
       "startDate": "2026-10-13T00:00:00Z",
       "endDate": "2026-11-12T23:59:59Z",
-      "backers": 116,
+      "backers": 117,
       "goal": "$1,000",
-      "raised": "$3,371",
+      "raised": "$3,396",
       "currency": null,
-      "percent": 337
+      "percent": 339
     },
     {
       "id": "gamefound:wulfhorngames/pact",
@@ -5600,11 +5474,11 @@
       "date": "2026-10-13",
       "startDate": "2026-10-13T14:00:00Z",
       "endDate": "2026-11-11T21:00:00Z",
-      "backers": 308,
+      "backers": 312,
       "goal": 10000,
-      "raised": 25211.43,
+      "raised": 25397.23,
       "currency": "EUR",
-      "percent": 252
+      "percent": 254
     },
     {
       "id": "kickstarter:serdesign/phase-relaunch",
@@ -5618,11 +5492,11 @@
       "date": "2026-10-13",
       "startDate": "2026-10-13T00:00:00Z",
       "endDate": "2026-11-11T23:59:59Z",
-      "backers": 120,
+      "backers": 126,
       "goal": "$7,500",
-      "raised": "$9,979",
+      "raised": "$10,479",
       "currency": null,
-      "percent": 133
+      "percent": 139
     },
     {
       "id": "kickstarter:steelwinggames/rainbow-blvd",
@@ -5636,11 +5510,11 @@
       "date": "2026-10-13",
       "startDate": "2026-10-13T00:00:00Z",
       "endDate": "2026-11-12T23:59:59Z",
-      "backers": 483,
+      "backers": 487,
       "goal": "$10,000",
-      "raised": "$39,215",
+      "raised": "$39,395",
       "currency": null,
-      "percent": 392
+      "percent": 393
     },
     {
       "id": "gamefound:mood-publishing/satisfactory-the-board-game",
@@ -5654,11 +5528,11 @@
       "date": "2026-10-13",
       "startDate": "2026-10-13T14:00:00Z",
       "endDate": "2026-11-10T15:00:00Z",
-      "backers": 9222,
+      "backers": 9553,
       "goal": 25000,
-      "raised": 2347887.58,
+      "raised": 2431270.44,
       "currency": "EUR",
-      "percent": 9392
+      "percent": 9725
     },
     {
       "id": "kickstarter:themothership/the-mothership-board-game",
@@ -5672,11 +5546,11 @@
       "date": "2026-10-13",
       "startDate": "2026-10-13T00:00:00Z",
       "endDate": "2026-11-12T23:59:59Z",
-      "backers": 153,
+      "backers": 158,
       "goal": "$20,000",
-      "raised": "$17,776",
+      "raised": "$18,390",
       "currency": null,
-      "percent": 88
+      "percent": 91
     },
     {
       "id": "kickstarter:crystalforests/the-witch-retreats-an-oracle",
@@ -5690,9 +5564,9 @@
       "date": "2026-10-13",
       "startDate": "2026-10-13T00:00:00Z",
       "endDate": "2026-11-12T23:59:59Z",
-      "backers": 173,
+      "backers": 172,
       "goal": "£16,500",
-      "raised": "£10,455",
+      "raised": "£10,509",
       "currency": null,
       "percent": 63
     },
@@ -5708,11 +5582,11 @@
       "date": "2026-10-13",
       "startDate": "2026-10-13T16:00:00Z",
       "endDate": "2026-11-11T05:00:00Z",
-      "backers": 221,
+      "backers": 226,
       "goal": 1000,
-      "raised": 20833.05,
+      "raised": 21074.05,
       "currency": "USD",
-      "percent": 2083
+      "percent": 2107
     },
     {
       "id": "gamefound:brandon-schooner/twisted-lands",
@@ -5726,11 +5600,11 @@
       "date": "2026-10-13",
       "startDate": "2026-10-13T07:00:00Z",
       "endDate": "2026-11-10T08:00:00Z",
-      "backers": 137,
+      "backers": 142,
       "goal": 5000,
-      "raised": 16834.95,
+      "raised": 17458.55,
       "currency": "USD",
-      "percent": 337
+      "percent": 349
     },
     {
       "id": "kickstarter:ryokoyabuchi/yuru-tarot-celestial",
@@ -5782,7 +5656,7 @@
       "endDate": "2026-11-30T23:00:00Z",
       "backers": 156,
       "goal": 80000,
-      "raised": 22591.5,
+      "raised": 22636.2,
       "currency": "GBP",
       "percent": 28
     },
@@ -5798,11 +5672,11 @@
       "date": "2026-10-12",
       "startDate": "2026-10-12T00:00:00Z",
       "endDate": "2026-11-11T23:59:59Z",
-      "backers": 171,
+      "backers": 174,
       "goal": "€500",
-      "raised": "€4,971",
+      "raised": "€5,081",
       "currency": null,
-      "percent": 994
+      "percent": 1016
     },
     {
       "id": "kickstarter:bannangames/narrato-a-journey-to-meaningful-life-experiences",
@@ -5816,11 +5690,11 @@
       "date": "2026-10-12",
       "startDate": "2026-10-12T00:00:00Z",
       "endDate": "2026-11-11T23:59:59Z",
-      "backers": 108,
+      "backers": 116,
       "goal": "€10,000",
-      "raised": "€8,284",
+      "raised": "€8,811",
       "currency": null,
-      "percent": 82
+      "percent": 88
     },
     {
       "id": "kickstarter:rollandplaypress/daggerheart-one-shot-wonders",
@@ -5834,11 +5708,11 @@
       "date": "2026-10-12",
       "startDate": "2026-10-12T00:00:00Z",
       "endDate": "2026-11-12T23:59:59Z",
-      "backers": 4258,
+      "backers": 4325,
       "goal": "£10,000",
-      "raised": "£402,301",
+      "raised": "£407,663",
       "currency": null,
-      "percent": 4023
+      "percent": 4076
     },
     {
       "id": "gamefound:dgb-games/road-warriors",
@@ -5872,9 +5746,9 @@
       "endDate": "2026-11-11T23:59:59Z",
       "backers": 153,
       "goal": "$100",
-      "raised": "$937",
+      "raised": "$820",
       "currency": null,
-      "percent": 936
+      "percent": 819
     },
     {
       "id": "kickstarter:simplicitytarot/fox-crystal-tarot",
@@ -5888,11 +5762,11 @@
       "date": "2026-10-10",
       "startDate": "2026-10-10T00:00:00Z",
       "endDate": "2026-11-09T23:59:59Z",
-      "backers": 95,
+      "backers": 97,
       "goal": "$7,777",
-      "raised": "$9,541",
+      "raised": "$9,810",
       "currency": null,
-      "percent": 122
+      "percent": 126
     },
     {
       "id": "kickstarter:divinghippostudio/handcrafted-cloud-glass-gemstone-dice",
@@ -5942,11 +5816,11 @@
       "date": "2026-10-09",
       "startDate": "2026-10-09T00:00:00Z",
       "endDate": "2026-11-08T23:59:59Z",
-      "backers": 40,
+      "backers": 41,
       "goal": "€400",
-      "raised": "€433",
+      "raised": "€445",
       "currency": null,
-      "percent": 108
+      "percent": 111
     },
     {
       "id": "kickstarter:conington2027/conington-2027-indie-tabletop-gaming-convention",
@@ -5960,11 +5834,11 @@
       "date": "2026-10-08",
       "startDate": "2026-10-08T00:00:00Z",
       "endDate": "2026-11-07T23:59:59Z",
-      "backers": 50,
+      "backers": 52,
       "goal": "$5,000",
-      "raised": "$5,351",
+      "raised": "$5,451",
       "currency": null,
-      "percent": 107
+      "percent": 109
     },
     {
       "id": "kickstarter:507561712/galactic-swap-the-race-to-earth",
@@ -5996,460 +5870,11 @@
       "date": "2026-10-08",
       "startDate": "2026-10-08T17:00:00Z",
       "endDate": "2026-11-12T20:59:00Z",
-      "backers": 86,
+      "backers": 87,
       "goal": 8000,
-      "raised": 16950.46,
+      "raised": 17049.46,
       "currency": "GBP",
-      "percent": 212
-    },
-    {
-      "id": "retail:453782",
-      "source": "retail",
-      "title": "Bamboo Smash",
-      "subtitle": null,
-      "publisher": "Pendragon Game Studio",
-      "blurb": "Players combine bamboo cards to summon powerful Pandemons, unleash Smashes, and win!",
-      "yearPublished": "2025",
-      "thumb": "https://cf.geekdo-images.com/16tKPgm3DLt2-5LYRGvpjw__mediacard/img/kkgYnXFBt8XmtSPnn4i8Abl1x9Q=/0x0:1500x844/288x162/filters:strip_icc()/pic9099378.jpg",
-      "thumb2x": "https://cf.geekdo-images.com/16tKPgm3DLt2-5LYRGvpjw__mediacard@2x/img/X2kM_u6anIVJBebBV-agb13NSpY=/0x0:1500x844/576x324/filters:strip_icc()/pic9099378.jpg",
-      "url": "https://boardgamegeek.com/boardgame/453782/bamboo-smash",
-      "date": "2026-10-07"
-    },
-    {
-      "id": "kickstarter:bbboardgame/battle-brothers-the-board-game",
-      "source": "kickstarter",
-      "title": "Battle Brothers: The Board Game",
-      "subtitle": null,
-      "publisher": "bbboardgame",
-      "blurb": "Card-based tactical board game based on the cult video game Battle Brothers. Go to battle as a mercenary company or an orc warband!",
-      "thumb": "https://i.kickstarter.com/assets/055/357/308/3ca8cde4d5a0b0d9a49689a229197a52_original.jpg?anim=false&fit=cover&gravity=auto&height=90&origin=ugc&q=92&v=1790947847&width=160&sig=DvUs8hQM%2FDaruVQUQyOYosBZfSD9mzu1SbTOvILs%2F%2Bs%3D",
-      "url": "https://www.kickstarter.com/projects/bbboardgame/battle-brothers-the-board-game",
-      "date": "2026-10-07",
-      "startDate": "2026-10-07T00:00:00Z",
-      "endDate": "2026-11-06T23:59:59Z",
-      "backers": 352,
-      "goal": "€10,000",
-      "raised": "€28,841",
-      "currency": null,
-      "percent": 288
-    },
-    {
-      "id": "retail:442509",
-      "source": "retail",
-      "title": "Cattywampus",
-      "subtitle": null,
-      "publisher": "3WS (Th3rd World)",
-      "blurb": "Partners draw half a picture from secret words, while other players guess the words.",
-      "yearPublished": "2026",
-      "thumb": "https://cf.geekdo-images.com/_psVonLpJt9sAUcoM0us0A__mediacard/img/6ScJ2mlFdSNd-yJvbpgmj9fdZig=/0x94:1948x1189/288x162/filters:strip_icc()/pic9007811.png",
-      "thumb2x": "https://cf.geekdo-images.com/_psVonLpJt9sAUcoM0us0A__mediacard@2x/img/WUokDLPhVyOdcUehd4tiK79D13g=/0x94:1948x1189/576x324/filters:strip_icc()/pic9007811.png",
-      "url": "https://boardgamegeek.com/boardgame/442509/cattywampus",
-      "date": "2026-10-07"
-    },
-    {
-      "id": "retail:464452",
-      "source": "retail",
-      "title": "Dead Letters",
-      "subtitle": null,
-      "publisher": "Pillbox Games",
-      "blurb": "It's 1915. You've fallen asleep at the Dead Letter Office. This game is your dream.",
-      "yearPublished": "2026",
-      "thumb": "https://cf.geekdo-images.com/wf9L0c6L9_MTiLsv-Ci--g__mediacard/img/wY5gfV_9g9ZAILDvb2fVm-lxP0o=/0x1410:2170x2631/288x162/filters:strip_icc()/pic9811093.jpg",
-      "thumb2x": "https://cf.geekdo-images.com/wf9L0c6L9_MTiLsv-Ci--g__mediacard@2x/img/bpVVFCFTFjLkXUEpCFDZT8kX84k=/0x1410:2170x2631/576x324/filters:strip_icc()/pic9811093.jpg",
-      "url": "https://boardgamegeek.com/boardgame/464452/dead-letters",
-      "date": "2026-10-07"
-    },
-    {
-      "id": "retail:445091",
-      "source": "retail",
-      "title": "Dreadful Dragons",
-      "subtitle": null,
-      "publisher": "Arkus Games",
-      "blurb": "Dreadfully tricky dragons compete to hoard gold!",
-      "yearPublished": "2026",
-      "thumb": "https://cf.geekdo-images.com/h4HSER0Oyr-3_5YnTTFjvA__mediacard/img/HzcPyzCjjoGiognmBFhFLtcTGLo=/0x407:2126x1602/288x162/filters:strip_icc()/pic9645971.png",
-      "thumb2x": "https://cf.geekdo-images.com/h4HSER0Oyr-3_5YnTTFjvA__mediacard@2x/img/eLdgOqjCyGQu_y-_i1PZbUxhnv8=/0x407:2126x1602/576x324/filters:strip_icc()/pic9645971.png",
-      "url": "https://boardgamegeek.com/boardgame/445091/dreadful-dragons",
-      "date": "2026-10-07"
-    },
-    {
-      "id": "retail:337973",
-      "source": "retail",
-      "title": "Earth Under Siege: Flashpoint",
-      "subtitle": "Earth Under Siege - Flashpoint",
-      "publisher": "Ares Games",
-      "blurb": "Play as covert Operatives conducting black op missions against a rising alien threat!",
-      "yearPublished": "2024",
-      "thumb": "https://cf.geekdo-images.com/xCmt1RBxVrNpegyqocmDgA__mediacard/img/ZhvsaG3XABpUKaV8s2Jgyr9MD30=/0x263:600x600/288x162/filters:strip_icc()/pic6170562.jpg",
-      "thumb2x": "https://cf.geekdo-images.com/xCmt1RBxVrNpegyqocmDgA__mediacard@2x/img/A5I-DOzFejp2xsg7IulkcUtPfIk=/0x263:600x600/576x324/filters:strip_icc()/pic6170562.jpg",
-      "url": "https://boardgamegeek.com/boardgame/337973/earth-under-siege-flashpoint",
-      "date": "2026-10-07"
-    },
-    {
-      "id": "retail:438984",
-      "source": "retail",
-      "title": "Earth Under Siege: Flashpoint – Nemesis Expansion",
-      "subtitle": "Earth Under Siege - Nemesis Expansion",
-      "publisher": "Ares Games",
-      "blurb": "New game mode for the game.",
-      "yearPublished": "2026",
-      "thumb": "https://cf.geekdo-images.com/GEtkjeoUw7kEOfnrV_qAqQ__mediacard/img/HMdxfkpszoglFnv3m_XCQ29Mfls=/0x178:4800x4618/fit-in/288x162/filters:fill(blur):strip_icc()/pic8978803.png",
-      "thumb2x": "https://cf.geekdo-images.com/GEtkjeoUw7kEOfnrV_qAqQ__mediacard@2x/img/JUHE69yHmf2u-0jJo0qncG-5Tb0=/0x178:4800x4618/fit-in/576x324/filters:fill(blur):strip_icc()/pic8978803.png",
-      "url": "https://boardgamegeek.com/boardgameexpansion/438984/earth-under-siege-flashpoint-nemesis-expansion",
-      "date": "2026-10-07"
-    },
-    {
-      "id": "retail:428067",
-      "source": "retail",
-      "title": "Earth Under Siege: Flashpoint – Operative Expansion",
-      "subtitle": "Earth Under Siege - Operative Expansion",
-      "publisher": "Ares Games",
-      "blurb": "Add six new Operatives into your game with new capabilities",
-      "yearPublished": "2024",
-      "thumb": "https://cf.geekdo-images.com/edE2dTVEb5EyiCchk-9miw__mediacard/img/5sce-IbdFESrWy4oGCUun9wQqD0=/0x46:3485x2007/288x162/filters:strip_icc()/pic8472209.jpg",
-      "thumb2x": "https://cf.geekdo-images.com/edE2dTVEb5EyiCchk-9miw__mediacard@2x/img/vIgOH5UZBerS-GgVC-asgW4cMZE=/0x46:3485x2007/576x324/filters:strip_icc()/pic8472209.jpg",
-      "url": "https://boardgamegeek.com/boardgameexpansion/428067/earth-under-siege-flashpoint-operative-expansion",
-      "date": "2026-10-07"
-    },
-    {
-      "id": "retail:428065",
-      "source": "retail",
-      "title": "Earth Under Siege: Flashpoint – World Killer Expansion",
-      "subtitle": "Earth Under Siege - World Killer Expansion",
-      "publisher": "Ares Games",
-      "blurb": "Continue the campaign where the core game ended",
-      "yearPublished": "2024",
-      "thumb": "https://cf.geekdo-images.com/TezEAgfAbiKgh_GIhp4qPQ__mediacard/img/55oCVC4dsUa44yoF2wnCsABDL78=/0x0:3600x2025/288x162/filters:strip_icc()/pic8978799.jpg",
-      "thumb2x": "https://cf.geekdo-images.com/TezEAgfAbiKgh_GIhp4qPQ__mediacard@2x/img/qzrx97JTquaw42im8W5XAddJwq8=/0x0:3600x2025/576x324/filters:strip_icc()/pic8978799.jpg",
-      "url": "https://boardgamegeek.com/boardgameexpansion/428065/earth-under-siege-flashpoint-world-killer-expansio",
-      "date": "2026-10-07"
-    },
-    {
-      "id": "retail:479666",
-      "source": "retail",
-      "title": "First Siege of Ayutthaya Game",
-      "subtitle": "First Siege of Ayutthaya",
-      "publisher": "Historical Game Company, The",
-      "blurb": "Opposing forces in collide in Siam (present-day Thailand).",
-      "yearPublished": "2026",
-      "thumb": "https://cf.geekdo-images.com/HxSQPn-Ar2XAX6FBnTM2nA__mediacard/img/w9JDTPGbohAm4AUvQt_HOOxPBmA=/0x0:1946x1095/288x162/filters:strip_icc()/pic9818980.png",
-      "thumb2x": "https://cf.geekdo-images.com/HxSQPn-Ar2XAX6FBnTM2nA__mediacard@2x/img/p77OBmkTzACZPZYMCZoqJvaAjHQ=/0x0:1946x1095/576x324/filters:strip_icc()/pic9818980.png",
-      "url": "https://boardgamegeek.com/boardgame/479666/first-siege-of-ayutthaya-game",
-      "date": "2026-10-07"
-    },
-    {
-      "id": "retail:450860",
-      "source": "retail",
-      "title": "Hanami",
-      "subtitle": null,
-      "publisher": "Keymaster Games",
-      "blurb": "Celebrate springtime in Japan with a picnic under the sakura blossoms.",
-      "yearPublished": "2026",
-      "thumb": "https://cf.geekdo-images.com/V0QGjTnDi891-mmlMWqvBA__mediacard/img/ouSvQ_wht-0xPWxEijqd1i7R0OQ=/0x880:2000x2005/288x162/filters:strip_icc()/pic9068738.jpg",
-      "thumb2x": "https://cf.geekdo-images.com/V0QGjTnDi891-mmlMWqvBA__mediacard@2x/img/qdX3C6yFGSdn24XxIwY1E_uu_s4=/0x880:2000x2005/576x324/filters:strip_icc()/pic9068738.jpg",
-      "url": "https://boardgamegeek.com/boardgame/450860/hanami",
-      "date": "2026-10-07"
-    },
-    {
-      "id": "retail:463605",
-      "source": "retail",
-      "title": "Hell of a Deal",
-      "subtitle": null,
-      "publisher": "Smirk & Dagger",
-      "blurb": "A cooperative poker game against The Devil Himself!",
-      "yearPublished": "2026",
-      "thumb": "https://cf.geekdo-images.com/Eq7LLhl0fUbQep--SIWbJg__mediacard/img/qbprkoKjYNu6Wk1vJt6N9onkFI0=/0x167:3375x2065/288x162/filters:strip_icc()/pic9374335.png",
-      "thumb2x": "https://cf.geekdo-images.com/Eq7LLhl0fUbQep--SIWbJg__mediacard@2x/img/yjGQvGjyuo6S4pz0OCVLRFtGL5Q=/0x167:3375x2065/576x324/filters:strip_icc()/pic9374335.png",
-      "url": "https://boardgamegeek.com/boardgame/463605/hell-of-a-deal",
-      "date": "2026-10-07"
-    },
-    {
-      "id": "retail:477606",
-      "source": "retail",
-      "title": "High Frontier 4 All: The Right Stuff",
-      "subtitle": "High Frontier 4 All - The Right Stuff",
-      "publisher": "Ion Game Design",
-      "blurb": "High Frontier 4 All as a limited scope card game.",
-      "yearPublished": "2026",
-      "thumb": "https://cf.geekdo-images.com/CSRRB76pob5HVT8knjHg1g__mediacard/img/OfWQt05e_-slrrvBg4-U8OQyBo0=/0x0:4000x2250/288x162/filters:strip_icc()/pic9776249.jpg",
-      "thumb2x": "https://cf.geekdo-images.com/CSRRB76pob5HVT8knjHg1g__mediacard@2x/img/gXYV3fNLT55S6N2_JVa8_1DpmpA=/0x0:4000x2250/576x324/filters:strip_icc()/pic9776249.jpg",
-      "url": "https://boardgamegeek.com/boardgame/477606/high-frontier-4-all-the-right-stuff",
-      "date": "2026-10-07"
-    },
-    {
-      "id": "retail:477933",
-      "source": "retail",
-      "title": "Hundo",
-      "subtitle": null,
-      "publisher": "Moodbox Games",
-      "blurb": "Players race each other to play all their cards without breaking a hundo!",
-      "yearPublished": "2026",
-      "thumb": "https://cf.geekdo-images.com/TISD9CxfYZ5W96HhOAInjA__mediacard/img/1-roUK7XLJAIubAuBxFJ1jG2M-k=/0x380:1283x1176/fit-in/288x162/filters:fill(blur):strip_icc()/pic9795216.jpg",
-      "thumb2x": "https://cf.geekdo-images.com/TISD9CxfYZ5W96HhOAInjA__mediacard@2x/img/W47UHdCv6hJawtzVr2j6bCX4BpE=/0x380:1283x1176/fit-in/576x324/filters:fill(blur):strip_icc()/pic9795216.jpg",
-      "url": "https://boardgamegeek.com/boardgame/477933/hundo",
-      "date": "2026-10-07"
-    },
-    {
-      "id": "retail:474483",
-      "source": "retail",
-      "title": "Infinity: HexaDome Legends",
-      "subtitle": "Infinity HexaDome Legends",
-      "publisher": "Corvus Belli",
-      "blurb": "Draft four futuristic gladiators and control shifting objectives over five rounds.",
-      "yearPublished": "2026",
-      "thumb": "https://cf.geekdo-images.com/pttZwDcBA-foio4-tUdzmg__mediacard/img/uu3oHIBtVdG8Y2nHf5q4qDt-C00=/0x391:1800x1404/288x162/filters:strip_icc()/pic9683144.jpg",
-      "thumb2x": "https://cf.geekdo-images.com/pttZwDcBA-foio4-tUdzmg__mediacard@2x/img/Uewfdi71LWqSfNW7ZHMgZT8PcWw=/0x391:1800x1404/576x324/filters:strip_icc()/pic9683144.jpg",
-      "url": "https://boardgamegeek.com/boardgame/474483/infinity-hexadome-legends",
-      "date": "2026-10-07"
-    },
-    {
-      "id": "retail:472581",
-      "source": "retail",
-      "title": "KPop Demon Hunters: Battle for the Spotlight",
-      "subtitle": "KPop Demon Hunters - Battle for the Spotlight",
-      "publisher": "Z-Man Games",
-      "blurb": "Choose Team HUNTR/X or Team Saja in the quick card game of tug-of-war!",
-      "yearPublished": "2026",
-      "thumb": "https://cf.geekdo-images.com/hbDDPCbqwNTBJuaY9YwvrQ__mediacard/img/jlXFrhtS6RHgIdATZNYr7gVixo0=/0x0:2000x1125/288x162/filters:strip_icc()/pic9640455.jpg",
-      "thumb2x": "https://cf.geekdo-images.com/hbDDPCbqwNTBJuaY9YwvrQ__mediacard@2x/img/F4-JsjPz_4ZKTeXnbYNdTlyt324=/0x0:2000x1125/576x324/filters:strip_icc()/pic9640455.jpg",
-      "url": "https://boardgamegeek.com/boardgame/472581/kpop-demon-hunters-battle-for-the-spotlight",
-      "date": "2026-10-07"
-    },
-    {
-      "id": "kickstarter:1229642471/neon-bounty-sisters-cyberpunk-stl-miniatures-for-3d-printing",
-      "source": "kickstarter",
-      "title": "Neon Bounty Sisters Cyberpunk STL Miniatures for 3D Printing",
-      "subtitle": null,
-      "publisher": "1229642471",
-      "blurb": "Highly detailed cyberpunk anime miniatures for 3D printing, resin printing, painting, collecting, display, and tabletop RPGs.",
-      "thumb": "https://i.kickstarter.com/assets/055/367/612/85cc8f1f04656b647ca4376f478c4361_original.png?anim=false&fit=cover&gravity=auto&height=90&origin=ugc&q=92&v=1791030449&width=160&sig=BadcpjNFrhKetvxOKvumtGPSyNYUHnFjJA%2FOJTwKGzA%3D",
-      "url": "https://www.kickstarter.com/projects/1229642471/neon-bounty-sisters-cyberpunk-stl-miniatures-for-3d-printing",
-      "date": "2026-10-07",
-      "startDate": "2026-10-07T00:00:00Z",
-      "endDate": "2026-11-06T23:59:59Z",
-      "backers": 27,
-      "goal": "€150",
-      "raised": "€505",
-      "currency": null,
-      "percent": 336
-    },
-    {
-      "id": "kickstarter:bradleyhorton/npc-vault-3-the-undead-42-dnd-2024-undead-npcs",
-      "source": "kickstarter",
-      "title": "NPC Vault 3, The Undead: 42 DnD 2024 Undead NPCs",
-      "subtitle": null,
-      "publisher": "bradleyhorton",
-      "blurb": "14 Undead Types, 42 NPCs; Three faces of every death for every Undead Type in D&D 5E and 5.5E",
-      "thumb": "https://i.kickstarter.com/assets/055/252/141/0b5a268794243755667a1ded60866256_original.jpg?anim=false&fit=cover&gravity=auto&height=90&origin=ugc&q=92&v=1790251263&width=160&sig=ZtFDPxO0z3j2xVjILdjnmhipY9%2Bg6ZlnC%2BTPFwYmrFQ%3D",
-      "url": "https://www.kickstarter.com/projects/bradleyhorton/npc-vault-3-the-undead-42-dnd-2024-undead-npcs",
-      "date": "2026-10-07",
-      "startDate": "2026-10-07T00:00:00Z",
-      "endDate": "2026-11-06T23:59:59Z",
-      "backers": 114,
-      "goal": "£500",
-      "raised": "£3,415",
-      "currency": null,
-      "percent": 683
-    },
-    {
-      "id": "retail:466889",
-      "source": "retail",
-      "title": "Proof of Life: A Fun Game About Death",
-      "subtitle": "Proof of Life",
-      "publisher": "Pink Tiger Games",
-      "blurb": "Do you like (or long) to talk more about death? Proof of life is for you!",
-      "yearPublished": "2026",
-      "thumb": "https://cf.geekdo-images.com/jLG9HXyeItDKcAiNXQ_lOQ__mediacard/img/VlBnH3BKuYSTrLaTqtGKNzSOVVY=/0x789:2282x2158/fit-in/288x162/filters:fill(blur):strip_icc()/pic9695641.jpg",
-      "thumb2x": "https://cf.geekdo-images.com/jLG9HXyeItDKcAiNXQ_lOQ__mediacard@2x/img/nfkLhCCOyLMB0EcqH4HR-70mNH4=/0x789:2282x2158/fit-in/576x324/filters:fill(blur):strip_icc()/pic9695641.jpg",
-      "url": "https://boardgamegeek.com/boardgame/466889/proof-of-life-a-fun-game-about-death",
-      "date": "2026-10-07"
-    },
-    {
-      "id": "retail:468529",
-      "source": "retail",
-      "title": "Quagmire",
-      "subtitle": null,
-      "publisher": "Perplext",
-      "blurb": "Program your frogs for bog domination!",
-      "yearPublished": "2026",
-      "thumb": "https://cf.geekdo-images.com/ANBsgXrvoCU8kbHW8NkXVQ__mediacard/img/boVhI3AnSsA5KG-f5GNnk1RGWU4=/0x0:2668x1501/288x162/filters:strip_icc()/pic9517640.jpg",
-      "thumb2x": "https://cf.geekdo-images.com/ANBsgXrvoCU8kbHW8NkXVQ__mediacard@2x/img/cIDrnI960P3A0vJdpQu9p_tjrCM=/0x0:2668x1501/576x324/filters:strip_icc()/pic9517640.jpg",
-      "url": "https://boardgamegeek.com/boardgame/468529/quagmire",
-      "date": "2026-10-07"
-    },
-    {
-      "id": "retail:430097",
-      "source": "retail",
-      "title": "Read the Room",
-      "subtitle": null,
-      "publisher": "Lucky Egg",
-      "blurb": "Players try to guess each other's opinions on controversial statements.",
-      "yearPublished": "2024",
-      "thumb": "https://cf.geekdo-images.com/spXROGHqfJc7NgedTuIj0A__mediacard/img/4LVQqIC1x6rzG5Fn3iYhuIuJ9hw=/0x14:573x337/288x162/filters:strip_icc()/pic8489700.jpg",
-      "thumb2x": "https://cf.geekdo-images.com/spXROGHqfJc7NgedTuIj0A__mediacard@2x/img/p8ogPas7che9K53wkfQezVtuoC0=/0x14:573x337/576x324/filters:strip_icc()/pic8489700.jpg",
-      "url": "https://boardgamegeek.com/boardgame/430097/read-the-room",
-      "date": "2026-10-07"
-    },
-    {
-      "id": "retail:442507",
-      "source": "retail",
-      "title": "Relative Space",
-      "subtitle": null,
-      "publisher": "3WS (Th3rd World)",
-      "blurb": "Be the first to play all the cards from your pile of valuables into escape pods.",
-      "yearPublished": "2026",
-      "thumb": "https://cf.geekdo-images.com/9_lmfaV3CjAWbbf0QYBgsQ__mediacard/img/uhtXv0cY8AfgWllW79b_7i9s_MA=/0x0:638x359/288x162/filters:strip_icc()/pic9215035.jpg",
-      "thumb2x": "https://cf.geekdo-images.com/9_lmfaV3CjAWbbf0QYBgsQ__mediacard@2x/img/02Cp2JVZ1xdvZeTonRiDCupEzGY=/0x0:638x359/576x324/filters:strip_icc()/pic9215035.jpg",
-      "url": "https://boardgamegeek.com/boardgame/442507/relative-space",
-      "date": "2026-10-07"
-    },
-    {
-      "id": "retail:479667",
-      "source": "retail",
-      "title": "Siege of Santiago Game",
-      "subtitle": "Siege of Santiago",
-      "publisher": "Historical Game Company, The",
-      "blurb": "Who will prevail? The stage is set.",
-      "yearPublished": "2026",
-      "thumb": "https://cf.geekdo-images.com/4hKnui0QdV50i4_AeBPl2Q__mediacard/img/BysyZxBGP40v8ShGta7VuXiCvhw=/0x0:600x338/288x162/filters:strip_icc()/pic9818981.jpg",
-      "thumb2x": "https://cf.geekdo-images.com/4hKnui0QdV50i4_AeBPl2Q__mediacard@2x/img/GF85X8eZAIDnksW4CedV-mehE8I=/0x0:600x338/576x324/filters:strip_icc()/pic9818981.jpg",
-      "url": "https://boardgamegeek.com/boardgame/479667/siege-of-santiago-game",
-      "date": "2026-10-07"
-    },
-    {
-      "id": "retail:471206",
-      "source": "retail",
-      "title": "Take Time: Mirage",
-      "subtitle": "Take Time - Mirage",
-      "publisher": "Libellud",
-      "blurb": "Face new challenges as Time summons the elusive Sand Bird!",
-      "yearPublished": "2026",
-      "thumb": "https://cf.geekdo-images.com/F9YYrodJHgZ8105W2-sUJg__mediacard/img/IcLm-5TvhddAziEQybXh3uEWpgw=/0x503:2295x1794/288x162/filters:strip_icc()/pic9603186.png",
-      "thumb2x": "https://cf.geekdo-images.com/F9YYrodJHgZ8105W2-sUJg__mediacard@2x/img/IVH5GCXZy7e1R_DVtNx0YrhK1qM=/0x503:2295x1794/576x324/filters:strip_icc()/pic9603186.png",
-      "url": "https://boardgamegeek.com/boardgameexpansion/471206/take-time-mirage",
-      "date": "2026-10-07"
-    },
-    {
-      "id": "retail:453392",
-      "source": "retail",
-      "title": "Terraforming Mars: The Dice Game – Missions",
-      "subtitle": "Terraforming Mars - The Dice Game Missions Expansion",
-      "publisher": "Stronghold Games",
-      "blurb": "Return to the Red Planet and find new ways to terraform.",
-      "yearPublished": "2025",
-      "thumb": "https://cf.geekdo-images.com/segX0Ohxc_-6_io5qH1Erg__mediacard/img/oU3QB9OistQYYbGmYVvTBOrisHc=/0x104:800x554/288x162/filters:strip_icc()/pic9155610.png",
-      "thumb2x": "https://cf.geekdo-images.com/segX0Ohxc_-6_io5qH1Erg__mediacard@2x/img/J-nK7CfuL6hN7REKFrw_c0Y8ZDY=/0x104:800x554/576x324/filters:strip_icc()/pic9155610.png",
-      "url": "https://boardgamegeek.com/boardgameexpansion/453392/terraforming-mars-the-dice-game-missions",
-      "date": "2026-10-07"
-    },
-    {
-      "id": "retail:465739",
-      "source": "retail",
-      "title": "Tianxia: Silk Road",
-      "subtitle": "Tianxia - Silk Road",
-      "publisher": "Board & Dice Games",
-      "blurb": "An expansion for Tianxia, introducing new caravans, pirates, and camels.",
-      "yearPublished": "2026",
-      "thumb": "https://cf.geekdo-images.com/krS3MjNMDpXuCHluv6asGg__mediacard/img/hXr4FDXUtMGw9h_tLtDh70fa_ts=/0x0:3485x1960/288x162/filters:strip_icc()/pic9434773.png",
-      "thumb2x": "https://cf.geekdo-images.com/krS3MjNMDpXuCHluv6asGg__mediacard@2x/img/kFT__pc1f_H5V_4TkItv3hxCRYA=/0x0:3485x1960/576x324/filters:strip_icc()/pic9434773.png",
-      "url": "https://boardgamegeek.com/boardgameexpansion/465739/tianxia-silk-road",
-      "date": "2026-10-07"
-    },
-    {
-      "id": "retail:459870",
-      "source": "retail",
-      "title": "Triple Six Baseball: The Dice Game",
-      "subtitle": "Maestro",
-      "publisher": "Board & Dice Games",
-      "blurb": "Print, roll three dice, and watch a full baseball story unfold on your table.",
-      "yearPublished": "2025",
-      "thumb": "https://cf.geekdo-images.com/vjZakn9zGwox8OZW2wVxiw__mediacard/img/04xmRXD49oPTAPVxPPVlIKLyzmw=/0x694:576x1018/288x162/filters:strip_icc()/pic9285567.jpg",
-      "thumb2x": "https://cf.geekdo-images.com/vjZakn9zGwox8OZW2wVxiw__mediacard@2x/img/J3e_CK7FIgp_63yTOJ780wWitYY=/0x694:576x1018/576x324/filters:strip_icc()/pic9285567.jpg",
-      "url": "https://boardgamegeek.com/boardgame/459870/triple-six-baseball-the-dice-game",
-      "date": "2026-10-07"
-    },
-    {
-      "id": "retail:472498",
-      "source": "retail",
-      "title": "Vestige: Community Scrap Pack",
-      "subtitle": "Vestige - Community Scrap Pack",
-      "publisher": "Orange Nebula",
-      "blurb": "Community driven content for a great game.",
-      "yearPublished": "2026",
-      "thumb": "https://cf.geekdo-images.com/e-5uEUJVy5eAtaFHZWqagg__mediacard/img/5yTzzT3r5Rz6CauEpp_oyFetdvg=/0x155:900x661/288x162/filters:strip_icc()/pic9672683.jpg",
-      "thumb2x": "https://cf.geekdo-images.com/e-5uEUJVy5eAtaFHZWqagg__mediacard@2x/img/ErOnu8h3Wy49rcULLVGhBOqvrTU=/0x155:900x661/576x324/filters:strip_icc()/pic9672683.jpg",
-      "url": "https://boardgamegeek.com/boardgameexpansion/472498/vestige-community-scrap-pack",
-      "date": "2026-10-07"
-    },
-    {
-      "id": "retail:435701",
-      "source": "retail",
-      "title": "Vestige: The Scavengers Scrap Pack",
-      "subtitle": "Vestige - The Scavengers Scrap Pack",
-      "publisher": "Orange Nebula",
-      "blurb": "12 cards to introduce Scavengers in your games.",
-      "yearPublished": "2025",
-      "thumb": "https://cf.geekdo-images.com/qyhcZQ8t-g3sbLVE1zsohw__mediacard/img/N3AtGwvt0ZkowWvEmDEPxfiuKIo=/0x160:1125x792/288x162/filters:strip_icc()/pic8605316.jpg",
-      "thumb2x": "https://cf.geekdo-images.com/qyhcZQ8t-g3sbLVE1zsohw__mediacard@2x/img/R2P4zsrM4x61qHZq6c8kHoGt8I4=/0x160:1125x792/576x324/filters:strip_icc()/pic8605316.jpg",
-      "url": "https://boardgamegeek.com/boardgameexpansion/435701/vestige-the-scavengers-scrap-pack",
-      "date": "2026-10-07"
-    },
-    {
-      "id": "kickstarter:izucraft/warriors-of-the-north-32mm-fantasy-rpg-stl-minis-pack",
-      "source": "kickstarter",
-      "title": "Warriors Of The North - 32mm Fantasy RPG STL minis Pack",
-      "subtitle": null,
-      "publisher": "izucraft",
-      "blurb": "Miniatures - STL files for 3D Printing, Presupported Minis in 32mm scale for RPG, Tabletop, Terrains, Wargames, D&D, Battlefield",
-      "thumb": "https://i.kickstarter.com/assets/055/420/684/484f253e3ff3acb326323ba2eb122dd8_original.png?anim=false&fit=cover&gravity=auto&height=90&origin=ugc&q=92&v=1791381117&width=160&sig=lKG3EZuBFh%2FZDXxIecgLFRy1TyL4SOnEJiggNscupRs%3D",
-      "url": "https://www.kickstarter.com/projects/izucraft/warriors-of-the-north-32mm-fantasy-rpg-stl-minis-pack",
-      "date": "2026-10-07",
-      "startDate": "2026-10-07T00:00:00Z",
-      "endDate": "2026-11-06T23:59:59Z",
-      "backers": 111,
-      "goal": "€100",
-      "raised": "€7,021",
-      "currency": null,
-      "percent": 7020
-    },
-    {
-      "id": "retail:477941",
-      "source": "retail",
-      "title": "Who Says? The Lord of the Rings",
-      "subtitle": "Who Says? Lord of the Rings",
-      "publisher": "Moodbox Games",
-      "blurb": "Challenge yourself by identifying the real & fake quotes from The Lord of the Rings.",
-      "yearPublished": "2026",
-      "thumb": "https://cf.geekdo-images.com/83QusVCca6u3PDVSOC1geQ__mediacard/img/8nKUkYNMgHIuGNDj8-brX15fwrI=/0x0:1052x592/288x162/filters:strip_icc()/pic9836609.jpg",
-      "thumb2x": "https://cf.geekdo-images.com/83QusVCca6u3PDVSOC1geQ__mediacard@2x/img/B91VczxVI9ASCU3SjfyLxFABG5o=/0x0:1052x592/576x324/filters:strip_icc()/pic9836609.jpg",
-      "url": "https://boardgamegeek.com/boardgame/477941/who-says-the-lord-of-the-rings",
-      "date": "2026-10-07"
-    },
-    {
-      "id": "retail:439875",
-      "source": "retail",
-      "title": "Wild Gardens: Foraging Club",
-      "subtitle": "Foraging Club Expansion",
-      "publisher": "Rose Gauntlet",
-      "blurb": "Discover new ways to forage in the wild gardens.",
-      "yearPublished": "2026",
-      "thumb": "https://cf.geekdo-images.com/i19Y-KNKoMAlyQG_vU0p9w__mediacard/img/IGlWAVgtv-B3wSPkPuNdj2Pbfjw=/0x0:3251x1829/288x162/filters:strip_icc()/pic8919111.png",
-      "thumb2x": "https://cf.geekdo-images.com/i19Y-KNKoMAlyQG_vU0p9w__mediacard@2x/img/BR2Pkgx7Pdbany0IEQvlNXd-dNQ=/0x0:3251x1829/576x324/filters:strip_icc()/pic8919111.png",
-      "url": "https://boardgamegeek.com/boardgameexpansion/439875/wild-gardens-foraging-club",
-      "date": "2026-10-07"
-    },
-    {
-      "id": "retail:466916",
-      "source": "retail",
-      "title": "You Think You Know Christmas",
-      "subtitle": null,
-      "publisher": "Pink Tiger Games",
-      "blurb": "A fun, easy, and quick Christmastime card game!",
-      "yearPublished": "2026",
-      "thumb": "https://cf.geekdo-images.com/TXwn-10pOSmjUsDRE2B_7w__mediacard/img/_dvpspdDO91nj1pELFWqQFfsqf0=/0x765:2036x1911/288x162/filters:strip_icc()/pic9695648.jpg",
-      "thumb2x": "https://cf.geekdo-images.com/TXwn-10pOSmjUsDRE2B_7w__mediacard@2x/img/X8_EVW_ccNWqK30ZpOlRgJCmZus=/0x765:2036x1911/576x324/filters:strip_icc()/pic9695648.jpg",
-      "url": "https://boardgamegeek.com/boardgame/466916/you-think-you-know-christmas",
-      "date": "2026-10-07"
+      "percent": 213
     }
   ]
 }
