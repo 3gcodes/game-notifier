@@ -1,24 +1,24 @@
 {
-  "updatedAt": "2026-11-26T18:22:40.764Z",
+  "updatedAt": "2026-11-27T18:08:24.805Z",
   "windowDays": 30,
   "sources": {
     "retail": {
       "ok": true,
       "count": 158,
       "rawCount": 29,
-      "fetchedAt": "2026-11-26T18:22:40.764Z"
+      "fetchedAt": "2026-11-27T18:08:24.805Z"
     },
     "gamefound": {
       "ok": true,
-      "count": 35,
-      "rawCount": 42,
-      "fetchedAt": "2026-11-26T18:22:40.764Z"
+      "count": 32,
+      "rawCount": 40,
+      "fetchedAt": "2026-11-27T18:08:24.805Z"
     },
     "kickstarter": {
       "ok": true,
       "count": 0,
       "rawCount": 0,
-      "fetchedAt": "2026-11-26T18:22:40.764Z"
+      "fetchedAt": "2026-11-27T18:08:24.805Z"
     }
   },
   "items": [
@@ -429,11 +429,11 @@
       "date": "2026-11-24",
       "startDate": "2026-11-24T17:00:00Z",
       "endDate": "2026-12-11T20:00:00Z",
-      "backers": 680,
+      "backers": 731,
       "goal": 3000,
-      "raised": 46239.06,
+      "raised": 49828.3,
       "currency": "EUR",
-      "percent": 1541
+      "percent": 1661
     },
     {
       "id": "gamefound:happy-capy-games/generation-ship",
@@ -447,11 +447,11 @@
       "date": "2026-11-24",
       "startDate": "2026-11-24T16:00:00Z",
       "endDate": "2026-12-09T08:00:00Z",
-      "backers": 228,
+      "backers": 246,
       "goal": 7500,
-      "raised": 12328.52,
+      "raised": 13310.81,
       "currency": "USD",
-      "percent": 164
+      "percent": 177
     },
     {
       "id": "gamefound:aluzinov/low-orbit-online",
@@ -483,11 +483,11 @@
       "date": "2026-11-24",
       "startDate": "2026-11-24T14:00:00Z",
       "endDate": "2026-12-12T21:00:00Z",
-      "backers": 1142,
+      "backers": 1218,
       "goal": 20000,
-      "raised": 135628.06,
+      "raised": 145235.16,
       "currency": "EUR",
-      "percent": 678
+      "percent": 726
     },
     {
       "id": "gamefound:francois-gilles-ricard/Watergate-Public-Enemy",
@@ -501,11 +501,11 @@
       "date": "2026-11-24",
       "startDate": "2026-11-24T15:00:00Z",
       "endDate": "2026-12-15T17:00:00Z",
-      "backers": 133,
+      "backers": 144,
       "goal": 15000,
-      "raised": 8165.25,
+      "raised": 8727.15,
       "currency": "EUR",
-      "percent": 54
+      "percent": 58
     },
     {
       "id": "gamefound:davidzxgame/playland-stars",
@@ -537,11 +537,11 @@
       "date": "2026-11-23",
       "startDate": "2026-11-23T14:00:00Z",
       "endDate": "2026-12-23T17:00:00Z",
-      "backers": 22,
+      "backers": 21,
       "goal": 4000,
-      "raised": 1059.24,
+      "raised": 1015.24,
       "currency": "EUR",
-      "percent": 26
+      "percent": 25
     },
     {
       "id": "gamefound:ennemis-publics/ennemis-publics-premieres-extensions",
@@ -555,11 +555,11 @@
       "date": "2026-11-19",
       "startDate": "2026-11-19T16:00:00Z",
       "endDate": "2026-12-18T20:03:00Z",
-      "backers": 23,
+      "backers": 27,
       "goal": 3000,
-      "raised": 753.8,
+      "raised": 953.6,
       "currency": "EUR",
-      "percent": 25
+      "percent": 32
     },
     {
       "id": "retail:476086",
@@ -1280,11 +1280,11 @@
       "date": "2026-11-17",
       "startDate": "2026-11-17T14:00:00Z",
       "endDate": "2026-12-03T22:59:00Z",
-      "backers": 457,
+      "backers": 464,
       "goal": 50000,
-      "raised": 116919.61,
+      "raised": 118991.87,
       "currency": "CAD",
-      "percent": 234
+      "percent": 238
     },
     {
       "id": "gamefound:ulisses-spiele/arkane-ermittlungen",
@@ -1298,11 +1298,11 @@
       "date": "2026-11-17",
       "startDate": "2026-11-17T17:00:00Z",
       "endDate": "2026-12-08T17:00:00Z",
-      "backers": 691,
+      "backers": 714,
       "goal": 30000,
-      "raised": 119183.58,
+      "raised": 123487.05,
       "currency": "EUR",
-      "percent": 397
+      "percent": 412
     },
     {
       "id": "gamefound:smart-flamingo/dice-valley",
@@ -1316,11 +1316,11 @@
       "date": "2026-11-17",
       "startDate": "2026-11-17T17:00:00Z",
       "endDate": "2026-12-07T22:59:00Z",
-      "backers": 620,
+      "backers": 637,
       "goal": 5000,
-      "raised": 20457.71,
+      "raised": 21021.71,
       "currency": "EUR",
-      "percent": 409
+      "percent": 420
     },
     {
       "id": "gamefound:phalanx/dust-in-the-wind",
@@ -1334,11 +1334,11 @@
       "date": "2026-11-17",
       "startDate": "2026-11-17T16:30:00Z",
       "endDate": "2026-12-10T20:30:00Z",
-      "backers": 914,
+      "backers": 928,
       "goal": 30000,
-      "raised": 181620.38,
+      "raised": 184073.47,
       "currency": "EUR",
-      "percent": 605
+      "percent": 614
     },
     {
       "id": "gamefound:gabe-barrett/joe-klipfel-presents-solo-game-of-the-month",
@@ -1352,11 +1352,11 @@
       "date": "2026-11-17",
       "startDate": "2026-11-17T16:00:00Z",
       "endDate": "2026-12-19T05:00:00Z",
-      "backers": 1666,
+      "backers": 1701,
       "goal": 5000,
-      "raised": 107689.39,
+      "raised": 110187.53,
       "currency": "USD",
-      "percent": 2154
+      "percent": 2204
     },
     {
       "id": "gamefound:dear-euthyphro-studio/sunlits-eulogy",
@@ -1370,11 +1370,11 @@
       "date": "2026-11-17",
       "startDate": "2026-11-17T16:00:00Z",
       "endDate": "2026-12-17T13:00:00Z",
-      "backers": 335,
+      "backers": 345,
       "goal": 36000,
-      "raised": 24301.65,
+      "raised": 25175.9,
       "currency": "USD",
-      "percent": 68
+      "percent": 70
     },
     {
       "id": "gamefound:LMS/thebreach-reprint-hellcoreexpansion",
@@ -1388,11 +1388,11 @@
       "date": "2026-11-17",
       "startDate": "2026-11-17T16:00:00Z",
       "endDate": "2026-12-10T22:00:00Z",
-      "backers": 1076,
+      "backers": 1096,
       "goal": 50000,
-      "raised": 175097.57,
+      "raised": 178818.09,
       "currency": "EUR",
-      "percent": 350
+      "percent": 358
     },
     {
       "id": "gamefound:longpack-games--toys/the-longpack-way---how-to-make-a-board-game",
@@ -1406,11 +1406,11 @@
       "date": "2026-11-17",
       "startDate": "2026-11-17T15:00:00Z",
       "endDate": "2026-12-18T15:00:00Z",
-      "backers": 209,
+      "backers": 213,
       "goal": 1000,
-      "raised": 6795.35,
+      "raised": 6859.88,
       "currency": "USD",
-      "percent": 680
+      "percent": 686
     },
     {
       "id": "gamefound:giza-games/biozero-tokyo",
@@ -1424,11 +1424,11 @@
       "date": "2026-11-16",
       "startDate": "2026-11-16T11:00:00Z",
       "endDate": "2026-12-08T11:00:00Z",
-      "backers": 125,
+      "backers": 132,
       "goal": 1000,
-      "raised": 4638.09,
+      "raised": 4846.66,
       "currency": "AUD",
-      "percent": 464
+      "percent": 485
     },
     {
       "id": "gamefound:nettopear/dnowhere",
@@ -1478,11 +1478,11 @@
       "date": "2026-11-12",
       "startDate": "2026-11-12T14:00:00Z",
       "endDate": "2026-12-12T15:00:00Z",
-      "backers": 919,
+      "backers": 936,
       "goal": 200000,
-      "raised": 154975.78,
+      "raised": 156216.04,
       "currency": "USD",
-      "percent": 77
+      "percent": 78
     },
     {
       "id": "retail:452493",
@@ -1605,24 +1605,6 @@
       "thumb2x": "https://cf.geekdo-images.com/R2R8UHcaRNJwaCJq8PJGFQ__mediacard@2x/img/27k0aa9NEpMUq5QoJZMoidyWo7M=/0x0:600x338/576x324/filters:strip_icc()/pic43709.jpg",
       "url": "https://boardgamegeek.com/boardgame/2093/mahjong",
       "date": "2026-11-11"
-    },
-    {
-      "id": "gamefound:board-and-dice/marco-polo-deluxe-master-set",
-      "source": "gamefound",
-      "title": "Marco Polo Deluxe Master Set",
-      "subtitle": null,
-      "publisher": "Board&Dice",
-      "blurb": "One of the best board games is coming back in an amazing deluxe edition. Board&Dice and Hans in Gluck are teaming up to craft a remarkable edition of the Voyages of Marco Polo series!",
-      "thumb": "https://imgcdn.gamefound.com/projectimage/projects/8165/7e1de4c8-ab5f-4784-aaeb-a533bf194393.png",
-      "url": "https://gamefound.com/projects/board-and-dice/marco-polo-deluxe-master-set",
-      "date": "2026-11-11",
-      "startDate": "2026-11-11T14:30:00Z",
-      "endDate": "2026-11-26T20:30:00Z",
-      "backers": 4045,
-      "goal": 40000,
-      "raised": 675917.32,
-      "currency": "EUR",
-      "percent": 1690
     },
     {
       "id": "retail:1406",
@@ -1826,16 +1808,16 @@
       "subtitle": null,
       "publisher": "Funtails GmbH",
       "blurb": "Set sail on a new, even more dangerous journey across the Sea of Shadows with this highly anticipated Feed the Kraken expansion!",
-      "thumb": "https://imgcdn.gamefound.com/projectimage/projects/6398/8613d5c7-7d05-4a48-9f4b-aaf77406684a.png",
+      "thumb": "https://imgcdn.gamefound.com/projectimage/projects/6398/ed15fa6d-e04a-436b-84b6-3a3cefb9f2ca.png",
       "url": "https://gamefound.com/projects/funtails-gmbh/feed-the-kraken-sea-of-shadows",
       "date": "2026-11-10",
       "startDate": "2026-11-10T17:00:00Z",
       "endDate": "2026-12-01T17:00:00Z",
-      "backers": 1948,
+      "backers": 2006,
       "goal": 50000,
-      "raised": 302404.56,
+      "raised": 310866.82,
       "currency": "EUR",
-      "percent": 605
+      "percent": 622
     },
     {
       "id": "gamefound:wolf-storm-entertainment/red-alert-new-world-order",
@@ -1849,11 +1831,11 @@
       "date": "2026-11-10",
       "startDate": "2026-11-10T14:00:00Z",
       "endDate": "2026-12-01T14:00:00Z",
-      "backers": 105,
+      "backers": 108,
       "goal": 40000,
-      "raised": 62869.7,
+      "raised": 63724.03,
       "currency": "GBP",
-      "percent": 157
+      "percent": 159
     },
     {
       "id": "gamefound:alex--spherechild/spherechild-vierte-edition",
@@ -1869,9 +1851,9 @@
       "endDate": "2026-12-15T22:59:00Z",
       "backers": 22,
       "goal": 2500,
-      "raised": 2856.6,
+      "raised": 2920.8,
       "currency": "EUR",
-      "percent": 114
+      "percent": 117
     },
     {
       "id": "gamefound:pendragon-game-studio-srl/the-thing-the-boardgame--the-cardgame",
@@ -1885,11 +1867,11 @@
       "date": "2026-11-10",
       "startDate": "2026-11-10T16:00:00Z",
       "endDate": "2026-12-01T16:00:00Z",
-      "backers": 3854,
+      "backers": 3959,
       "goal": 40000,
-      "raised": 539850.51,
+      "raised": 556210.39,
       "currency": "EUR",
-      "percent": 1350
+      "percent": 1391
     },
     {
       "id": "gamefound:milecode/somewhere-else",
@@ -2318,24 +2300,6 @@
       "date": "2026-11-04"
     },
     {
-      "id": "gamefound:thespacecollective/starheroes",
-      "source": "gamefound",
-      "title": "Star Heroes - Eternium (4X TCG)",
-      "subtitle": null,
-      "publisher": "The Space Collective",
-      "blurb": "A sci-fi trading card game of galactic conquest and exploration, blending the epic scale of 4X board games with strategic TCG gameplay. Made by a spaceflight expert, with cards containing genuine flown spaceflight materials.",
-      "thumb": "https://imgcdn.gamefound.com/projectimage/projects/3635/3adf4afd-61bf-4995-aad9-9d0d058742ce.jpg",
-      "url": "https://gamefound.com/projects/thespacecollective/starheroes",
-      "date": "2026-11-03",
-      "startDate": "2026-11-03T16:00:00Z",
-      "endDate": "2026-11-26T22:00:00Z",
-      "backers": 168,
-      "goal": 20000,
-      "raised": 62664.84,
-      "currency": "GBP",
-      "percent": 313
-    },
-    {
       "id": "gamefound:baseraider/bug-out-escape-your-paranoia",
       "source": "gamefound",
       "title": "Bug Out: Escape your Paranoia",
@@ -2440,24 +2404,6 @@
       "thumb2x": "https://cf.geekdo-images.com/1EniP3ruJBW7XguWWafGHg__mediacard@2x/img/37fZhEOgCGtxhJDVlW9Fp9WsrPs=/0x0:955x537/576x324/filters:strip_icc()/pic9862752.jpg",
       "url": "https://boardgamegeek.com/boardgame/480642/flames-across-the-valley-second-edition",
       "date": "2026-10-28"
-    },
-    {
-      "id": "gamefound:hagglethorn-hollow-hobbies/hagglethorn-hollow-evermaze",
-      "source": "gamefound",
-      "title": "Hagglethorn Hollow: Evermaze",
-      "subtitle": null,
-      "publisher": "Hagglethorn Hollow Hobbies",
-      "blurb": "A whimsical meets dark fantasy STL collection of hidden doors, winding paths, gnomefolk, stumpfolk, awoken beasts, stone ruins, hedgeways, and modular terrain for tabletop adventures.\n\nWe will have a short run of physical prints with this run as well!",
-      "thumb": "https://imgcdn.gamefound.com/projectimage/projects/11499/c84d3dfb-afff-4220-a66c-5d730bf0d8fc.png",
-      "url": "https://gamefound.com/projects/hagglethorn-hollow-hobbies/hagglethorn-hollow-evermaze",
-      "date": "2026-10-28",
-      "startDate": "2026-10-28T17:00:00Z",
-      "endDate": "2026-11-28T18:00:00Z",
-      "backers": 329,
-      "goal": 12000,
-      "raised": 84917.75,
-      "currency": "USD",
-      "percent": 708
     },
     {
       "id": "retail:472690",
